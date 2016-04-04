@@ -1,0 +1,1011 @@
+mesto,ime,premozenje,starost,vir_premozenja,drzava
+#1,Bill Gates,75,60,Microsoft,United States
+#2,Amancio Ortega,67,80,Zara,Spain
+#3,Warren Buffett,60.8,85,Berkshire Hathaway,United States
+#4,Carlos Slim Helu,50,76,telecom,Mexico
+#5,Jeff Bezos,45.2,52,Amazon.com,United States
+#6,Mark Zuckerberg,44.6,31,Facebook,United States
+#7,Larry Ellison,43.6,71,Oracle,United States
+#8,Michael Bloomberg,40,74,Bloomberg LP,United States
+#9,Charles Koch,39.6,80,diversified,United States
+#9,David Koch,39.6,75,diversified,United States
+#11,Liliane Bettencourt,36.1,93,L'Oreal,France
+#12,Larry Page,35.2,43,Google,United States
+#13,Sergey Brin,34.4,42,Google,United States
+#14,Bernard Arnault,34,67,LVMH,France
+#15,Jim Walton,33.6,67,Wal-Mart,United States
+#16,Alice Walton,32.3,66,Wal-Mart,United States
+#17,S. Robson Walton,31.9,71,Wal-Mart,United States
+#18,Wang Jianlin,28.7,61,real estate,China
+#19,Jorge Paulo Lemann,27.8,76,beer,Brazil
+#20,Li Ka-shing,27.1,87,diversified,Hong Kong
+#21,Beate Heister & Karl Albrecht Jr.,25.9,,supermarkets,Germany
+#22,Sheldon Adelson,25.2,82,casinos,United States
+#23,George Soros,24.9,85,hedge funds,United States
+#24,Phil Knight,24.4,78,Nike,United States
+#25,David Thomson,23.8,58,media,Canada
+#26,Steve Ballmer,23.5,60,Microsoft,United States
+#27,"Forrest Mars, Jr.",23.4,84,candy,United States
+#27,Jacqueline Mars,23.4,76,candy,United States
+#27,John Mars,23.4,79,candy,United States
+#30,Maria Franca Fissolo,22.1,98,"Nutella, Chocolates",Italy
+#31,Lee Shau Kee,21.5,88,real estate,Hong Kong
+#32,Stefan Persson,20.8,68,H&M,Sweden
+#33,Jack Ma,20.5,51,Alibaba,China
+#34,"Theo Albrecht, Jr.",20.3,65,"Aldi, Trader Joe's",Germany
+#35,Michael Dell,19.8,51,Dell,United States
+#36,Mukesh Ambani,19.3,58,"petrochemicals, oil & gas",India
+#37,Leonardo Del Vecchio,18.7,80,eyeglasses,Italy
+#38,Susanne Klatten,18.5,53,"BMW, pharmaceuticals",Germany
+#39,Georg Schaeffler,18.1,51,automotive,Germany
+#40,Paul Allen,17.5,63,"Microsoft, investments",United States
+#41,Prince Alwaleed Bin Talal Alsaud,17.3,61,investments,Saudi Arabia
+#42,Joseph Safra,17.2,77,banking,Brazil
+#43,Carl Icahn,17,80,investments,United States
+#44,Laurene Powell Jobs,16.7,52,"Apple, Disney",United States
+#44,Dilip Shanghvi,16.7,60,pharmaceuticals,India
+#46,Ma Huateng,16.6,44,internet services,China
+#47,Dieter Schwarz,16.4,76,retail,Germany
+#48,Ray Dalio,15.6,66,hedge funds,United States
+#48,Stefan Quandt,15.6,49,BMW,Germany
+#50,James Simons,15.5,77,hedge funds,United States
+#51,Aliko Dangote,15.4,58,"cement, sugar, flour",Nigeria
+#51,Michael Otto,15.4,72,"retail, real estate",Germany
+#53,Len Blavatnik,15.3,58,diversified,United States
+#54,Donald Bren,15.1,83,real estate,United States
+#55,Azim Premji,15,70,software services,India
+#56,Serge Dassault,14.7,90,aviation,France
+#57,Tadashi Yanai,14.6,67,retail,Japan
+#58,Cheng Yu-tung,14.5,90,diversified,Hong Kong
+#58,Hinduja family,14.5,,Hinduja Group,United Kingdom
+#60,Leonid Mikhelson,14.4,60,"gas, chemicals",Russia
+#60,David & Simon Reuben,14.4,73,"investments, real estate",United Kingdom
+#62,Stefano Pessina,13.4,74,drugstores,Italy
+#63,Mikhail Fridman,13.3,51,"oil, banking, telecom",Russia
+#64,Dietrich Mateschitz,13.2,71,Red Bull,Austria
+#65,Abigail Johnson,13.1,54,money management,United States
+#65,Kjeld Kirk Kristiansen,13.1,68,Lego,Denmark
+#65,Joseph Lau,13.1,64,real estate,Hong Kong
+#68,Gerald Cavendish Grosvenor,13,64,real estate,United Kingdom
+#68,Thomas & Raymond Kwok,13,,real estate,Hong Kong
+#68,Marcel Herrmann Telles,13,66,beer,Brazil
+#71,Henry Sy,12.9,91,SM Investments Corporation,Philippines
+#72,Steve Cohen,12.7,60,hedge funds,United States
+#73,Pallonji Mistry,12.5,86,construction,Ireland
+#73,Hans Rausing,12.5,90,packaging,Sweden
+#73,Alisher Usmanov,12.5,62,"steel, telecom, investments",Russia
+#76,Charlene de Carvalho-Heineken,12.3,61,Heineken,Netherlands
+#77,Charles Ergen,12.2,63,satellite TV,United States
+#78,Ronald Perelman,12.1,73,leveraged buyouts,United States
+#78,Vladimir Potanin,12.1,55,metals,Russia
+#80,Stephen Ross,12,75,real estate,United States
+#81,Patrick Soon-Shiong,11.9,64,pharmaceuticals,United States
+#82,Masayoshi Son,11.7,58,"internet, telecom",Japan
+#82,Heinz Hermann Thiele,11.7,74,brakes,Germany
+#84,Francois Pinault,11.5,79,retail,France
+#85,David Tepper,11.4,58,hedge funds,United States
+#85,Gennady Timchenko,11.4,63,oil & gas,Russia
+#87,Carlos Alberto Sicupira,11.3,68,beer,Brazil
+#88,Shiv Nadar,11.1,70,software services,India
+#88,Thomas Peterffy,11.1,71,discount brokerage,United States
+#90,Robin Li,11,47,internet search,China
+#90,Alain Wertheimer,11,67,Chanel,France
+#90,Gerard Wertheimer,11,65,Chanel,France
+#93,Alexey Mordashov,10.9,50,"steel, investments",Russia
+#94,Elon Musk,10.7,44,Tesla Motors,United States
+#94,Charoen Sirivadhanabhakdi,10.7,71,beverages,Thailand
+#96,Petr Kellner,10.6,51,"banking, insurance",Czech Republic
+#96,Rupert Murdoch,10.6,85,media,United States
+#98,Viktor Vekselberg,10.5,58,"metals, energy",Russia
+#99,Lukas Walton,10.4,29,Wal-Mart,United States
+#100,Eric Schmidt,10.2,60,Google,United States
+#101,Iris Fontbona,10.1,73,mining,Chile
+#101,Massimiliana Landini Aleotti,10.1,73,pharmaceuticals,Italy
+#103,Mike Adenuga,10,62,"telecom, oil",Nigeria
+#103,Klaus-Michael Kuehne,10,78,shipping,Germany
+#103,Robert Kuok,10,92,palm oil/shipping/real estate,Malaysia
+#103,"Samuel Newhouse, Jr.",10,88,media,United States
+#107,Lei Jun,9.8,46,smartphones,China
+#108,Philip Anschutz,9.7,76,investments,United States
+#108,Jim Kennedy,9.7,68,media,United States
+#108,Blair Parry-Okeden,9.7,65,media,United States
+#108,John Paulson,9.7,60,hedge funds,United States
+#112,Lee Kun-Hee,9.6,74,Samsung,South Korea
+#113,Hasso Plattner,9.5,72,software,Germany
+#113,Stephen Schwarzman,9.5,69,investments,United States
+#115,Andrew Beal,9.4,63,"banks, real estate",United States
+#116,Vladimir Lisin,9.3,59,"steel, transport",Russia
+#116,"John Menard, Jr.",9.3,76,retail,United States
+#116,Donald Newhouse,9.3,86,media,United States
+#116,Udo & Harald Tschira,9.3,,Software,Germany
+#116,Galen Weston,9.3,75,retail,Canada
+#121,German Larrea Mota Velasco,9.2,62,mining,Mexico
+#122,He Xiangjian,9,73,home appliances,China
+#122,Leonard Lauder,9,83,Estee Lauder,United States
+#124,Vagit Alekperov,8.9,65,oil,Russia
+#124,Dustin Moskovitz,8.9,31,Facebook,United States
+#124,Luis Carlos Sarmiento,8.9,83,banking,Colombia
+#127,Gina Rinehart,8.8,62,mining,Australia
+#128,German Khan,8.7,54,"oil, banking, telecom",Russia
+#129,Ernesto Bertarelli,8.6,50,"biotech, investments",Switzerland
+#129,Hui Ka Yan,8.6,57,real estate,China
+#129,Jan Koum,8.6,40,WhatsApp,United States
+#129,Xavier Niel,8.6,48,"internet, telecom",France
+#133,John Fredriksen,8.5,71,shipping,Cyprus
+#133,Cyrus Poonawalla,8.5,74,vaccines,India
+#135,Gianluigi & Rafaela Aponte,8.4,,shipping,Switzerland
+#135,Lakshmi Mittal,8.4,65,steel,India
+#135,Eyal Ofer,8.4,65,"real estate, shipping",Israel
+#138,Mohammed Al Amoudi,8.3,69,"oil, diversified",Saudi Arabia
+#139,Hank & Doug Meijer,8.2,,supermarkets,United States
+#139,Andrey Melnichenko,8.2,44,"coal, fertilizers",Russia
+#141,William Ding,8.1,44,online games,China
+#141,R. Budi Hartono,8.1,75,"banking, tobacco",Indonesia
+#141,Reinhold Wuerth,8.1,80,fasteners,Germany
+#144,James Goodnight,8,73,software,United States
+#144,Johann Graf,8,69,gambling,Austria
+#146,Michael Hartono,7.9,76,"tobacco, banking",Indonesia
+#146,Dietmar Hopp,7.9,75,software,Germany
+#148,Stanley Kroenke,7.7,68,"sports, real estate",United States
+#148,Dmitry Rybolovlev,7.7,49,fertilizer,Russia
+#148,Suh Kyung-Bae,7.7,53,cosmetics,South Korea
+#151,Roman Abramovich,7.6,49,"steel, investments",Russia
+#151,Emmanuel Besnier,7.6,45,cheese,France
+#151,Lui Che Woo,7.6,86,casinos,Hong Kong
+#151,Robert & Philip Ng,7.6,,real estate,Singapore
+#151,Mikhail Prokhorov,7.6,50,investments,Russia
+#151,August von Finck,7.6,86,investments,Germany
+#157,Ken Griffin,7.5,47,hedge funds,United States
+#158,Ananda Krishnan,7.4,77,telecom,Malaysia
+#159,Eli Broad,7.3,82,investments,United States
+#159,"Thomas Frist, Jr.",7.3,77,health care,United States
+#159,"Herbert Kohler, Jr.",7.3,77,plumbing fixtures,United States
+#159,Harry Triguboff,7.3,83,property,Australia
+#163,"Edward Johnson, III.",7.2,85,money management,United States
+#163,Pierre Omidyar,7.2,48,eBay,United States
+#163,Takemitsu Takizaki,7.2,70,sensors,Japan
+#163,Wang Wenyin,7.2,48,"mining, copper products",China
+#167,Micky Arison,7.1,66,Carnival Cruises,United States
+#167,George Kaiser,7.1,73,"oil & gas, banking",United States
+#167,Les Wexner,7.1,78,retail,United States
+#170,Alberto Bailleres Gonzalez,6.9,84,mining,Mexico
+#171,Dhanin Chearavanont,6.8,76,diversified,Thailand
+#171,Margarita Louis-Dreyfus,6.8,53,commodities,Switzerland
+#173,Alexei Kuzmichev,6.7,53,"oil, banking, telecom",Russia
+#174,Nicky Oppenheimer,6.6,70,diamonds,South Africa
+#174,Peter Woo,6.6,69,real estate,Hong Kong
+#176,Jean-Claude Decaux,6.5,78,advertising,France
+#176,David Geffen,6.5,73,entertainment,United States
+#178,James Chambers,6.4,58,Media,United States
+#178,Walter Droege,6.4,63,Consulting,Germany
+#178,Graeme Hart,6.4,60,investments,New Zealand
+#178,Sandra Ortega Mera,6.4,47,Zara,Spain
+#178,Katharine Rayner,6.4,71,media,United States
+#178,Margaretta Taylor,6.4,73,media,United States
+#184,John Grayken,6.3,59,private equity,Ireland
+#184,Uday Kotak,6.3,57,banking,India
+#184,Liu Qiangdong,6.3,41,e-commerce,China
+#184,John Malone,6.3,75,cable television,United States
+#188,Silvio Berlusconi,6.2,79,media,Italy
+#188,Garrett Camp,6.2,37,Uber Technologies,Canada
+#188,Curt Engelhorn,6.2,89,pharmaceuticals,Germany
+#188,Travis Kalanick,6.2,39,Uber Technologies,United States
+#188,Walter Kwok,6.2,65,real estate,Hong Kong
+#188,Eduardo Saverin,6.2,34,Facebook,Brazil
+#188,Xu Shihui,6.2,58,"snacks, beverages",China
+#188,Zong Qinghou,6.2,70,beverages,China
+#196,Giorgio Armani,6.1,81,Armani,Italy
+#196,Kumar Birla,6.1,48,commodities,India
+#196,Eva Gonda de Rivera,6.1,,beverages,Mexico
+#196,Wolfgang Marguerre,6.1,75,pharmaceuticals,Germany
+#196,Hansjoerg Wyss,6.1,81,medical devices,Switzerland
+#201,Jay Y. Lee,6,47,Samsung,South Korea
+#201,Gordon Moore,6,87,Intel,United States
+#201,Frederik Paulsen,6,65,health care,Sweden
+#201,Tsai Eng-Meng,6,59,"food, beverages",Taiwan
+#205,Patrick Drahi,5.9,52,telecom,France
+#205,Philip & Cristina Green,5.9,64,retail,United Kingdom
+#205,Mikhail Gutseriev,5.9,58,"oil, real estate",Russia
+#205,Shahid Khan,5.9,65,auto parts,United States
+#205,Richard LeFrak,5.9,70,real estate,United States
+#205,Tom & Judy Love,5.9,78,retail & gas stations,United States
+#205,Pan Sutong,5.9,52,"real estate, finance",Hong Kong
+#205,Zhang Zhidong,5.9,44,internet media,China
+#205,Zhou Qunfei,5.9,46,smartphone glass covers,Hong Kong
+#214,Michael Kadoorie,5.8,74,"hotels, energy",Hong Kong
+#214,Jorn Rausing,5.8,56,packaging,Sweden
+#214,John A. Sobrato,5.8,76,real estate,United States
+#214,Dennis Washington,5.8,81,"construction, mining",United States
+#214,Christoffel Wiese,5.8,74,retailing,South Africa
+#219,Francis Choi,5.7,68,real estate,Hong Kong
+#219,Sergei Galitsky,5.7,48,retail,Russia
+#219,Antonia Johnson,5.7,72,diversified,Sweden
+#219,Pauline MacMillan Keinath,5.7,82,Cargill,United States
+#219,Lu Guanqiu,5.7,71,conglomerate,China
+#219,Sunil Mittal,5.7,58,telecom,India
+#219,Denis O'Brien,5.7,57,telecom,Ireland
+#219,Augusto & Giorgio Perfetti,5.7,,candy,Italy
+#219,Melker Schorling,5.7,68,investments,Sweden
+#228,Heinrich Deichmann,5.6,53,footwear,Germany
+#228,Terry Gou,5.6,65,electronics,Taiwan
+#228,David Green,5.6,74,retail,United States
+#228,Hiroshi Mikitani,5.6,51,online retail,Japan
+#228,Stef Wertheimer,5.6,89,metalworking tools,Israel
+#233,Maria Asuncion Aramburuzabala,5.5,52,"beer, investments",Mexico
+#233,Desh Bandhu Gupta,5.5,78,pharmaceuticals,India
+#233,Ralph Lauren,5.5,76,Ralph Lauren,United States
+#233,Ted Lerner,5.5,90,real estate,United States
+#233,James Ratcliffe,5.5,63,chemicals,United Kingdom
+#233,Finn Rausing,5.5,61,packaging,Sweden
+#233,Kirsten Rausing,5.5,63,packaging,Sweden
+#240,Bruce Halle,5.4,85,tires,United States
+#240,James Irving,5.4,88,diversified,Canada
+#240,Jason Jiang,5.4,43,advertising,China
+#240,Richard Kinder,5.4,71,pipelines,United States
+#240,Juan Roig,5.4,66,supermarkets,Spain
+#240,Charles Schwab,5.4,78,discount brokerage,United States
+#240,Aloys Wobben,5.4,64,wind turbines,Germany
+#240,Xu Chuanhua,5.4,81,chemicals,China
+#248,Vincent Bollore,5.3,63,investments,France
+#248,Guenther Fielmann,5.3,76,optometry,Germany
+#248,Ray Lee Hunt,5.3,73,"oil, real estate",United States
+#248,Bruce Kovner,5.3,71,hedge funds,United States
+#248,Law Kar Po,5.3,67,real estate,Hong Kong
+#248,Joe Lewis,5.3,79,investments,United Kingdom
+#248,Quek Leng Chan,5.3,74,"banking, real estate",Malaysia
+#248,Johann Rupert,5.3,65,luxury goods,South Africa
+#248,Andrei Skoch,5.3,50,steel,Russia
+#248,Jack Taylor,5.3,93,Enterprise Rent-A-Car,United States
+#258,Chan Laiwa,5.2,75,real estate,China
+#258,Anders Holch Povlsen,5.2,43,retail,Denmark
+#258,Trevor Rees-Jones,5.2,64,oil & gas,United States
+#258,Christy Walton,5.2,67,Wal-Mart,United States
+#262,Vivien Chen,5.1,57,real estate,Hong Kong
+#262,Harold Hamm,5.1,70,oil & gas,United States
+#262,Diane Hendricks,5.1,69,roofing,United States
+#262,Liu Yongxing,5.1,67,agribusiness,China
+#262,Ian & Richard Livingstone,5.1,,real estate,United Kingdom
+#262,Frank Lowy,5.1,85,shopping malls,Australia
+#262,Ludwig Merckle,5.1,51,pharmaceuticals,Germany
+#262,Dan Olsson,5.1,69,diversified,Sweden
+#270,Majid Al Futtaim,5,,"real estate, retail",United Arab Emirates
+#270,Charles Dolan,5,89,cable television,United States
+#270,Israel Englander,5,67,hedge funds,United States
+#270,Goh Cheng Liang,5,88,paints,Singapore
+#270,"John Gokongwei, Jr.",5,88,diversified,Philippines
+#270,Guo Guangchang,5,49,conglomerate,China
+#270,Tamara Gustavson,5,54,self storage,United States
+#270,Jerry Jones,5,73,Dallas Cowboys,United States
+#270,Karl-Heinz Kipp,5,92,retail,Germany
+#270,Kwee family,5,71,Pontiac Land Group,Singapore
+#270,Willi & Isolde Liebherr,5,,construction,Switzerland
+#270,Lin Yu-lin,5,80,real estate,Taiwan
+#270,Arnon Milchan,5,71,movie making,Israel
+#270,Shashi & Ravi Ruia,5,,diversified,India
+#270,David Shaw,5,65,hedge funds,United States
+#270,Yang Huiyan,5,34,real estate,China
+#286,Abdulla bin Ahmad Al Ghurair,4.9,,diversified,United Arab Emirates
+#286,David & Frederick Barclay,4.9,82,"media, retail",United Kingdom
+#286,Richard Branson,4.9,65,Virgin,United Kingdom
+#286,Jim Davis,4.9,72,New Balance,United States
+#286,Albert Frere,4.9,90,investments,Belgium
+#286,Daniel Gilbert,4.9,54,Quicken Loans,United States
+#286,Akira Mori,4.9,79,real estate,Japan
+#286,Robert Rowling,4.9,62,investments,United States
+#286,Alejandro Santo Domingo,4.9,39,beer,United States
+#286,Andres Santo Domingo,4.9,37,beer,United States
+#286,Bernard (Barry) Sherman,4.9,74,pharmaceuticals,Canada
+#286,Chairul Tanjung,4.9,53,diversified,Indonesia
+#298,Carl Cook,4.8,53,medical devices,United States
+#298,Michael & Marian Ilitch,4.8,86,pizza,United States
+#298,Bidzina Ivanishvili,4.8,60,investments,Georgia
+#298,Robert Kraft,4.8,74,New England Patriots,United States
+#298,Lu Zhiqiang,4.8,63,conglomerate,China
+#298,Michael Stoschek,4.8,68,autoparts,Germany
+#298,Sam Zell,4.8,74,"real estate, private equity",United States
+#298,Daniel Ziff,4.8,44,investments,United States
+#298,Dirk Ziff,4.8,51,investments,United States
+#298,Robert Ziff,4.8,49,investments,United States
+#308,Richard DeVos,4.7,90,Amway,United States
+#308,Gustaf Douglas,4.7,78,security,Sweden
+#308,Arthur Irving,4.7,86,oil,Canada
+#308,Jia Yueting,4.7,43,online video,China
+#308,"Paul Tudor Jones, II.",4.7,61,hedge funds,United States
+#308,Whitney MacMillan,4.7,87,Cargill,United States
+#308,Sun Guangxin,4.7,53,diversified,China
+#308,Teh Hong Piow,4.7,86,banking,Malaysia
+#308,Hans Peter Wild,4.7,74,flavorings,Germany
+#317,Pyotr Aven,4.6,61,"oil, banking, telecom",Russia
+#317,Laurence Graff,4.6,77,diamond jewelry,United Kingdom
+#317,Charles Johnson,4.6,83,money management,United States
+#317,Lee Shin Cheng,4.6,77,"palm oil, real estate",Malaysia
+#317,Richard Li,4.6,49,telecom,Hong Kong
+#317,Bruno Schroder,4.6,83,banking,United Kingdom
+#317,Mark Shoen,4.6,64,U-Haul,United States
+#324,Dona Bertarelli,4.5,48,biotech,Switzerland
+#324,Leon Black,4.5,64,private equity,United States
+#324,Carlos and Alejandro Bulgheroni,4.5,,oil and gas,Argentina
+#324,Clive Calder,4.5,69,record label,United Kingdom
+#324,Ann Walton Kroenke,4.5,67,Wal-Mart,United States
+#324,George Lucas,4.5,71,Star Wars,United States
+#324,Theo Mueller,4.5,76,dairy,Germany
+#324,Jim Pattison,4.5,87,diversified,Canada
+#324,Sergei Popov,4.5,44,banking,Russia
+#324,Sumner Redstone,4.5,92,Media,United States
+#324,Maria-Elisabeth Schaeffler,4.5,74,auto parts,Germany
+#324,David Sun,4.5,64,computer hardware,United States
+#324,Donald Trump,4.5,69,"television, real estate",United States
+#324,John Tu,4.5,75,computer hardware,United States
+#338,Brian Acton,4.4,44,WhatsApp,United States
+#338,Jeronimo Arango,4.4,90,retail,Mexico
+#338,Pierre Bellon,4.4,86,food services,France
+#338,Stanley Druckenmiller,4.4,62,hedge funds,United States
+#338,David Duffield,4.4,75,business software,United States
+#338,Micky Jagtiani,4.4,64,retail,India
+#338,Wolfgang Reimann,4.4,63,consumer goods,Germany
+#338,Matthias Reimann-Andersen,4.4,50,consumer goods,Germany
+#338,Stefan Reimann-Andersen,4.4,52,consumer goods,Germany
+#338,Renate Reimann-Haas,4.4,64,consumer goods,Germany
+#338,Emanuele (Lino) Saputo,4.4,79,cheese,Canada
+#338,Tong Jinquan,4.4,61,real estate,China
+#338,Wang Chuanfu,4.4,50,"batteries, autos",China
+#351,Bernard Broermann,4.3,72,hospitals,Germany
+#351,Chung Mong-Koo,4.3,78,motor vehicles,South Korea
+#351,Joao Roberto Marinho,4.3,62,media,Brazil
+#351,Jose Roberto Marinho,4.3,60,media,Brazil
+#351,Roberto Irineu Marinho,4.3,68,media,Brazil
+#351,Ricardo Salinas Pliego,4.3,60,"retail, media",Mexico
+#351,Wei Jianjun,4.3,52,automobiles,China
+#358,Ralph Dommermuth,4.2,52,internet service provider,Germany
+#358,Jeffery Hildebrand,4.2,57,oil,United States
+#358,Henry Kravis,4.2,72,private equity,United States
+#358,Sri Prakash Lohia,4.2,63,polyester,Indonesia
+#358,Carrie Perrodo,4.2,65,oil,France
+#358,Odd Reitan,4.2,64,"retail, real estate",Norway
+#358,Stewart and Lynda Resnick,4.2,,"agriculture, water",United States
+#358,Joseph Tsai,4.2,52,e-commerce,Canada
+#358,Wang Wei,4.2,45,package delivery service,China
+#358,Wee Cho Yaw,4.2,87,banking,Singapore
+#358,M.A. Yusuff Ali,4.2,60,retail,India
+#369,Americo Amorim,4.1,81,"energy, investments",Portugal
+#369,Dannine Avara,4.1,52,pipelines,United States
+#369,John Doerr,4.1,64,venture capital,United States
+#369,Scott Duncan,4.1,33,pipelines,United States
+#369,Milane Frantz,4.1,46,pipelines,United States
+#369,Gong Hongjia,4.1,51,investments,Hong Kong
+#369,Liu Yonghao,4.1,64,agribusiness,China
+#369,George Roberts,4.1,72,private equity,United States
+#369,Mark Scheinberg,4.1,42,online gambling,Canada
+#369,Reinhold Schmieding,4.1,61,medical devices,United States
+#369,Randa Williams,4.1,54,pipelines,United States
+#380,Jin Sook & Do Won Chang,4,53,fashion retail,United States
+#380,James Dyson,4,68,vacuums,United Kingdom
+#380,Han Chang-Woo,4,85,pachinko parlors,Japan
+#380,Bertil Hult,4,75,education,Sweden
+#380,James Jannard,4,66,sunglasses,United States
+#380,Vikram Lal,4,74,motorcycles,India
+#380,Nancy Walton Laurie,4,64,Wal-Mart,United States
+#380,Iskander Makhmudov,4,52,"mining, metals, machinery",Russia
+#380,Terrence Pegula,4,65,natural gas,United States
+#380,Jerry Speyer,4,75,real estate,United States
+#380,Leonard Stern,4,78,real estate,United States
+#380,Lucio Tan,4,81,diversified,Philippines
+#392,Shari Arison,3.9,58,Carnival Cruises,Israel
+#392,Leonid Fedun,3.9,59,oil,Russia
+#392,Frits Goldschmeding,3.9,82,temp agency,Netherlands
+#392,Martha Ingram,3.9,80,"book distribution, transportation",United States
+#392,"Rupert Johnson, Jr.",3.9,74,money management,United States
+#392,Edwin Leong,3.9,64,real estate,Hong Kong
+#392,Mary Alice Dorrance Malone,3.9,66,Campbell Soup,United States
+#392,John Sall,3.9,67,software,United States
+#392,Jeffrey Skoll,3.9,51,eBay,United States
+#392,Sheldon Solow,3.9,87,real estate,United States
+#392,Zhou Jianping,3.9,55,apparel,China
+#403,Heinz-Georg Baus,3.8,82,home improvement stores,Germany
+#403,Denise Coates,3.8,48,online gambling,United Kingdom
+#403,Traudl Engelhorn,3.8,,pharmaceuticals/medical equipment,Germany
+#403,Ursula Engelhorn,3.8,,pharmaceuticals/medical equipment,Germany
+#403,Michael Herz,3.8,72,coffee,Germany
+#403,Wolfgang Herz,3.8,65,coffee,Germany
+#403,Randal Kirk,3.8,62,pharmaceuticals,United States
+#403,Niels Peter Louis-Hansen,3.8,68,medical devices,Denmark
+#403,Fredrik Lundberg,3.8,64,"real estate, investments",Sweden
+#403,John Morris,3.8,68,sporting goods retail,United States
+#403,"H. Ross Perot, Sr.",3.8,85,"computer services, real estate",United States
+#403,Michael Pieper,3.8,70,kitchen appliances,Switzerland
+#403,Karen Pritzker,3.8,58,"hotels, investments",United States
+#403,Viktor Rashnikov,3.8,67,steel,Russia
+#403,Leandro Rizzuto,3.8,77,consumer products,United States
+#403,"Edward Roski, Jr.",3.8,77,real estate,United States
+#403,"Walter Scott, Jr.",3.8,84,"utilities, telecom",United States
+#403,Zhang Jindong,3.8,53,appliance retailer,China
+#421,Rahel Blocher,3.7,40,chemicals,Switzerland
+#421,Vanich Chaiyawan,3.7,84,"insurance, beverages",Thailand
+#421,Juan Carlos Escotet,3.7,56,banking,Venezuela
+#421,Phillip Frost,3.7,79,pharmaceuticals,United States
+#421,Hui Wing Mau,3.7,65,real estate,Hong Kong
+#421,"Jeremy Jacobs, Sr.",3.7,76,sports concessions,United States
+#421,Nathan Kirsh,3.7,84,"retail, real estate",Swaziland
+#421,Kwon Hyuk-Bin,3.7,42,online games,South Korea
+#421,Magdalena Martullo-Blocher,3.7,47,chemicals,Switzerland
+#421,Axel Oberwelland,3.7,49,candy,Germany
+#421,Idan Ofer,3.7,60,"drilling, shipping",Israel
+#421,Horst Paulmann,3.7,81,retail,Chile
+#421,Nassef Sawiris,3.7,55,"construction, chemicals",Egypt
+#421,George Ty,3.7,83,banking,Philippines
+#435,Alexander Abramov,3.6,57,"steel, mining",Russia
+#435,Martin & Olivier Bouygues,3.6,,"construction, media",France
+#435,Subhash Chandra,3.6,65,media,India
+#435,Archie Aldis Emmerson,3.6,86,"timberland, lumber mills",United States
+#435,Andrei Guriev,3.6,56,fertilizers,Russia
+#435,Elizabeth Holmes,3.6,32,blood testing,United States
+#435,Masatoshi Ito,3.6,91,retail,Japan
+#435,Dominika & Sebastian Kulczyk,3.6,,diversified,Poland
+#435,Siegfried Meister,3.6,77,appliances,Germany
+#435,Gwendolyn Sontheim Meyer,3.6,54,Cargill,United States
+#435,Anthony Pratt,3.6,55,manufacturing,Australia
+#435,Steven Rales,3.6,64,manufacturing,United States
+#435,Ira Rennert,3.6,81,investments,United States
+#435,"Julian Robertson, Jr.",3.6,84,hedge funds,United States
+#435,Harry Stine,3.6,74,agriculture,United States
+#435,Ronda Stryker,3.6,61,medical equipment,United States
+#435,Lottie Tham,3.6,66,H&M,Sweden
+#435,Frank Wang,3.6,35,drones,China
+#453,Gautam Adani,3.5,53,"commodities, infrastructure",India
+#453,Michael Ashley,3.5,51,sports retailing,United Kingdom
+#453,Benu Gopal Bangur,3.5,84,cement,India
+#453,Peter Buck,3.5,85,Subway sandwich shops,United States
+#453,Rick Caruso,3.5,57,real estate,United States
+#453,Dan Friedkin,3.5,51,Toyota dealerships,United States
+#453,Antti Herlin,3.5,59,"elevators, escalators",Finland
+#453,Kieu Hoang,3.5,71,pharmaceuticals,United States
+#453,Savitri Jindal,3.5,66,steel,India
+#453,Ronald Lauder,3.5,72,Estee Lauder,United States
+#453,Liang Wengen,3.5,59,construction equipment,China
+#453,Masahiro Miki,3.5,60,retail,Japan
+#453,Igor Olenicoff,3.5,73,real estate,United States
+#453,James Packer,3.5,48,casinos,Australia
+#453,Pan Zhengmin,3.5,46,electronics,China
+#453,Pankaj Patel,3.5,63,pharmaceuticals,India
+#453,Isaac Perlmutter,3.5,73,Marvel comics,United States
+#453,"Robert Rich, Jr.",3.5,75,frozen foods,United States
+#453,Haim Saban,3.5,71,"TV network, investments",United States
+#453,Steven Spielberg,3.5,69,Movies,United States
+#453,Keiichiro Takahara,3.5,85,diapers,Japan
+#453,Steven Udvar-Hazy,3.5,70,aircraft leasing,United States
+#453,Wang Wenxue,3.5,48,real estate,China
+#453,Zhang Shiping,3.5,69,aluminum products,China
+#477,Prince Sultan bin Mohammed bin Saud Al Kabeer,3.4,62,dairy farms,Saudi Arabia
+#477,Isak Andic,3.4,62,clothing retail,Spain
+#477,Neil Bluhm,3.4,78,real estate,United States
+#477,John Catsimatidis,3.4,67,"oil, real estate",United States
+#477,Giuseppe De'Longhi,3.4,76,coffee makers,Italy
+#477,Abilio dos Santos Diniz,3.4,79,retail,Brazil
+#477,Pansy Ho,3.4,53,casinos,Hong Kong
+#477,Michel Leclercq,3.4,76,sporting goods,France
+#477,Elisabeth Mohn,3.4,75,media,Germany
+#477,Pang Kang,3.4,60,soy sauce maker,China
+#477,Qiu Guanghe,3.4,64,apparel retail,China
+#477,Mitchell Rales,3.4,59,"manufacturing, investments",United States
+#477,Paolo & Gianfelice Mario Rocca,3.4,,pipe manufacturing,Italy
+#477,Lynn Schusterman,3.4,77,"oil & gas, investments",United States
+#477,Friede Springer,3.4,73,publishing,Germany
+#477,Sun Piaoyang,3.4,57,pharmaceuticals,China
+#477,Jeff Sutton,3.4,56,real estate,United States
+#477,Russ Weiner,3.4,45,energy drinks,United States
+#495,Marc Benioff,3.3,51,business software,United States
+#495,Nathan Blecharczyk,3.3,32,Airbnb,United States
+#495,Bubba Cathy,3.3,61,Chick-Fil-A,United States
+#495,Dan Cathy,3.3,63,Chick-Fil-A,United States
+#495,David Cheriton,3.3,65,Google,Canada
+#495,Brian Chesky,3.3,34,Airbnb,United States
+#495,"Edward DeBartolo, Jr.",3.3,69,shopping centers,United States
+#495,John Gandel,3.3,81,shopping malls,Australia
+#495,Rosa Anna Magno Garavoglia,3.3,,spirits,Italy
+#495,Joe Gebbia,3.3,34,Airbnb,United States
+#495,Tom Gores,3.3,51,private equity,United States
+#495,Jeff Greene,3.3,61,"real estate, investments",United States
+#495,Jiang Bin,3.3,49,acoustic components,China
+#495,H. Fisk Johnson,3.3,57,cleaning products,United States
+#495,Imogene Powers Johnson,3.3,86,cleaning products,United States
+#495,S. Curtis Johnson,3.3,60,cleaning products,United States
+#495,Helen Johnson-Leipold,3.3,59,cleaning products,United States
+#495,Winnie Johnson-Marquart,3.3,56,cleaning products,United States
+#495,Erich Kellerhals,3.3,77,electronics retailer,Germany
+#495,Ma Jianrong,3.3,52,"textiles, apparel",China
+#495,Bernard Marcus,3.3,86,Home Depot,United States
+#495,Clayton Mathile,3.3,75,pet food,United States
+#495,Robert McNair,3.3,79,"energy, sports",United States
+#495,Alain Merieux,3.3,78,pharmaceuticals,France
+#495,Jorge Perez,3.3,66,condos,United States
+#495,Qi Shi,3.3,46,financial information,China
+#495,Teddy Sagi,3.3,44,gambling software,Israel
+#495,Joan Tisch,3.3,90,diversified,United States
+#495,Martin Viessmann,3.3,62,heating equipment,Germany
+#495,Andreas von Bechtolsheim,3.3,60,Google,Germany
+#495,Zhang Guiping,3.3,64,real estate,China
+#495,Zhu Gongshan,3.3,58,solar panel materials,China
+#527,"Austen Cargill, II.",3.2,65,Cargill,United States
+#527,"James Cargill, II.",3.2,66,Cargill,United States
+#527,Leon G. Cooperman,3.2,72,hedge funds,United States
+#527,Mark Cuban,3.2,57,online media,United States
+#527,Bernard Ecclestone,3.2,85,Formula One,United Kingdom
+#527,Zarakh Iliev,3.2,49,real estate,Russia
+#527,Bachtiar Karim,3.2,59,manufacturing,Indonesia
+#527,Daryl Katz,3.2,54,Pharmacies,Canada
+#527,Li Hejun,3.2,48,renewable energy,China
+#527,Marianne Liebmann,3.2,62,Cargill,United States
+#527,God Nisanov,3.2,43,real estate,Russia
+#527,Kevin Plank,3.2,43,Under Armour,United States
+#527,Anthony Pritzker,3.2,55,"hotels, investments",United States
+#527,Jay Robert (J.B.) Pritzker,3.2,51,"hotels, investments",United States
+#527,Renzo Rosso,3.2,60,fashion retail,Italy
+#527,Hussain Sajwani,3.2,63,real estate,United Arab Emirates
+#527,Thomas Schmidheiny,3.2,70,cement,Switzerland
+#527,Shaul Shani,3.2,61,telecom,Israel
+#527,Andreas Struengmann,3.2,66,pharmaceuticals,Germany
+#527,Thomas Struengmann,3.2,66,pharmaceuticals,Germany
+#527,Wu Yajun,3.2,52,real estate,China
+#527,Yang Kai,3.2,59,dairy products,China
+#549,Abdulla Al Futtaim,3.1,,"auto dealers, investments",United Arab Emirates
+#549,Kapil & Rahul Bhatia,3.1,,Airlines,India
+#549,Pollyanna Chu,3.1,57,financial services,Hong Kong
+#549,Ken Fisher,3.1,65,money management,United States
+#549,Jaime Gilinski Bacal,3.1,58,banking,Colombia
+#549,Andreas Halvorsen,3.1,54,hedge funds,Norway
+#549,Indu Jain,3.1,79,media,India
+#549,Samvel Karapetyan,3.1,50,development,Russia
+#549,Barry Lam,3.1,66,computers,Taiwan
+#549,Lars Larsen,3.1,67,retail,Denmark
+#549,Samuel Tak Lee,3.1,76,real estate,Hong Kong
+#549,John Overdeck,3.1,46,hedge funds,United States
+#549,Issad Rebrab,3.1,72,food,Algeria
+#549,J. Christopher Reyes,3.1,62,food distribution,United States
+#549,Jude Reyes,3.1,60,food distribution,United States
+#549,David Siegel,3.1,54,Hedge Funds,United States
+#549,Frederick Smith,3.1,71,FedEx,United States
+#549,Donald Sterling,3.1,80,real estate,United States
+#549,Juan-Miguel Villar Mir,3.1,84,construction,Spain
+#549,Roger Wang,3.1,67,retail,United States
+#569,Stephen Bisciotti,3,55,"outsourcing, football",United States
+#569,Chey Tae-Won,3,55,computer services/telecoms,South Korea
+#569,Chung Eui-Sun,3,45,logistics,South Korea
+#569,David Consunji,3,94,construction,Philippines
+#569,Jack Dangermond,3,70,mapping software,United States
+#569,Rafael Del Pino y Calvo-Sotelo,3,57,construction,Spain
+#569,Dagmar Dolby,3,74,Dolby Laboratories,United States
+#569,Bennett Dorrance,3,70,Campbell Soup,United States
+#569,Isabel dos Santos,3,42,investments,Angola
+#569,Tilman Fertitta,3,58,"restaurants, casinos",United States
+#569,Bernard Fraisse,3,59,pharmaceuticals,France
+#569,"Amos Hostetter, Jr.",3,79,cable television,United States
+#569,Liu Yiqian,3,52,investments,China
+#569,Luo Jye,3,90,tires,Taiwan
+#569,Sudhir & Samir Mehta,3,,diversified,India
+#569,Jorge Moll Filho,3,71,hospitals,Brazil
+#569,Erwin Franz Mueller,3,83,drug stores,Germany
+#569,Michael Platt,3,48,hedge funds,United Kingdom
+#569,"David Rockefeller, Sr.",3,100,"oil, banking",United States
+#569,Chanchai Ruayrungruang,3,62,real estate,China
+#569,Naguib Sawiris,3,61,telecom,Egypt
+#569,Stephan Schmidheiny,3,68,investments,Switzerland
+#569,Andrew Tan,3,63,diversified,Philippines
+#569,Tony Tan Caktiong,3,63,fast food,Philippines
+#569,Oprah Winfrey,3,62,TV shows,United States
+#569,Ye Chenghai,3,72,pharmaceuticals,Hong Kong
+#595,Kunio Busujima,2.9,90,pachinko machines,Japan
+#595,John Paul DeJoria,2.9,72,"hair products, tequila",United States
+#595,Lindsay Fox,2.9,78,logistics/real estate,Australia
+#595,Peter Hargreaves,2.9,69,financial services,United Kingdom
+#595,Erivan Haub,2.9,83,retail,Germany
+#595,Huang Rulun,2.9,64,real estate,China
+#595,Dmitry Kamenshchik,2.9,47,airport,Russia
+#595,Guenther Lehmann,2.9,,drug stores,Germany
+#595,Lu Xiangyang,2.9,53,"automobiles, batteries",China
+#595,Alexander Nesis,2.9,53,"metals, banking, fertilizers",Russia
+#595,Ravi Pillai,2.9,62,construction,India
+#595,"Wilbur Ross, Jr.",2.9,78,investments,United States
+#595,Dirk Rossmann,2.9,69,drugstore chain,Germany
+#595,Howard Schultz,2.9,62,Starbucks,United States
+#595,Alexander Svetakov,2.9,48,"banking, real estate",Russia
+#595,Murat Ulker,2.9,57,food manufacturing,Turkey
+#595,Simon Xie,2.9,46,online payment service,China
+#612,Robert Bass,2.8,68,"oil, investments",United States
+#612,Carlo Benetton,2.8,72,"clothing, investments",Italy
+#612,Gilberto Benetton,2.8,74,"clothing, investments",Italy
+#612,Giuliana Benetton,2.8,78,"clothing, investments",Italy
+#612,Luciano Benetton,2.8,80,"clothing, investments",Italy
+#612,Otto Philipp Braun,2.8,38,medical technology,Germany
+#612,Otto Happel,2.8,68,engineering,Germany
+#612,Daniela Herz,2.8,62,coffee,Germany
+#612,Guenter Herz & Family,2.8,75,coffee,Germany
+#612,Peter Kellogg,2.8,73,investments,United States
+#612,Heikki Kyostila,2.8,70,dental products,Finland
+#612,Lee Jay-Hyun,2.8,56,food products/entertainment,South Korea
+#612,Yuri Milner,2.8,54,"Facebook, investments",Russia
+#612,Fernando Roberto Moreira Salles,2.8,69,"banking, minerals",Brazil
+#612,Joao Moreira Salles,2.8,54,"banking, minerals",Brazil
+#612,Pedro Moreira Salles,2.8,56,"banking, minerals",Brazil
+#612,Walther Moreira Salles Junior,2.8,59,"banking, minerals",Brazil
+#612,Prasert Prasarttong-Osoth,2.8,83,hospitals,Thailand
+#612,"Bernard Saul, II.",2.8,83,"banking, real estate",United States
+#612,Alexandra Schorghuber,2.8,57,real estate,Germany
+#612,Herbert Simon,2.8,81,real estate,United States
+#612,Kushal Pal Singh,2.8,84,real estate,India
+#612,Vichai Srivaddhanaprabha,2.8,58,duty-free,Thailand
+#612,Hans Strothoff,2.8,65,"kitchen, plumbing retailer",Germany
+#612,Romesh T. Wadhwani,2.8,68,software,United States
+#612,Xue Xiangdong,2.8,57,software,China
+#638,Riley Bechtel,2.7,64,"engineering, construction",United States
+#638,"Stephen Bechtel, Jr.",2.7,90,"engineering, construction",United States
+#638,Jean-Michel Besnier,2.7,48,cheese,France
+#638,Marie Besnier Beauvalot,2.7,35,cheese,France
+#638,Alain Bouchard,2.7,67,retail,Canada
+#638,Cai Dongqing,2.7,46,animation,China
+#638,Jean Pierre Cayard,2.7,73,spirits,France
+#638,Richard Chandler,2.7,57,investments,New Zealand
+#638,Chen Fashu,2.7,55,investments,China
+#638,Andrew & Peggy Cherng,2.7,,restaurants,United States
+#638,Silas Chou,2.7,69,apparel,Hong Kong
+#638,"John Dorrance, III.",2.7,72,Campbell Soup,Ireland
+#638,Robert Duggan,2.7,71,pharmaceuticals,United States
+#638,Hortensia Herrero,2.7,65,supermarkets,Spain
+#638,Heidi Horten,2.7,75,retail,Austria
+#638,Kwek Leng Beng,2.7,75,real estate,Singapore
+#638,Kenneth Langone,2.7,80,investments,United States
+#638,James Leprino,2.7,78,cheese,United States
+#638,Sergio Mantegazza,2.7,88,travel,Switzerland
+#638,John Middleton,2.7,61,tobacco,United States
+#638,Robert Miller,2.7,70,electronics components,Canada
+#638,David Murdock,2.7,92,"Dole, real estate",United States
+#638,Thomas Pritzker,2.7,65,"hotels, investments",United States
+#638,Peter Thiel,2.7,48,"Facebook, Palantir",United States
+#638,Yitzhak Tshuva,2.7,67,real estate,Israel
+#638,Wang Yusuo,2.7,52,natural gas distribution,China
+#638,John Whittaker,2.7,74,real estate,United Kingdom
+#638,Yeung Kin-man,2.7,,electronics,Hong Kong
+#666,Yvonne Bauer,2.6,39,media,Germany
+#666,Arthur Blank,2.6,73,Home Depot,United States
+#666,Antonio Del Valle Ruiz,2.6,77,chemicals,Mexico
+#666,Walter Faria,2.6,60,beer,Brazil
+#666,Doris Fisher,2.6,84,Gap,United States
+#666,H. Wayne Huizenga,2.6,78,investments,United States
+#666,Ke Zunhong,2.6,61,pharmaceuticals,China
+#666,Lam Wai Ying,2.6,,Electronics,Hong Kong
+#666,Li Shuirong,2.6,59,petrochemicals,China
+#666,Liu Zhongtian,2.6,52,aluminum products,China
+#666,Daniel Loeb,2.6,54,hedge funds,United States
+#666,Ronald McAulay,2.6,80,energy,Hong Kong
+#666,Michael Moritz,2.6,61,venture capital,United States
+#666,"Carolus Nolet, Sr.",2.6,75,Ketel One vodka,Netherlands
+#666,Daniel Och,2.6,55,hedge funds,United States
+#666,Husnu Ozyegin,2.6,71,"finance, diversified",Turkey
+#666,A. Jerrold Perenchio,2.6,85,"television, Univision",United States
+#666,Krit Ratanarak,2.6,69,"media, real estate",Thailand
+#666,Henry Samueli,2.6,61,semiconductors,United States
+#666,Hanni Toosbuy Kasprzak,2.6,58,shoes,Denmark
+#666,Samuel Yin,2.6,65,diversified,Taiwan
+#666,Zhang Xin,2.6,50,real estate,China
+#688,Anil Ambani,2.5,56,diversified,India
+#688,John Arnold,2.5,42,hedge funds,United States
+#688,Andrej Babis,2.5,61,agriculture,Czech Republic
+#688,David Bonderman,2.5,73,private equity,United States
+#688,Jose Luis Cutrale,2.5,69,orange juice,Brazil
+#688,Bharat & Neerja Sethi Desai,2.5,63,IT consulting,United States
+#688,Kuldip Singh & Gurbachan Singh Dhingra,2.5,,paints,India
+#688,Philippe Foriel-Destezet,2.5,80,employment agency,France
+#688,Tom Golisano,2.5,74,payroll services,United States
+#688,Henry Hillman,2.5,97,investments,United States
+#688,Johan Johannson,2.5,49,grocery stores,Norway
+#688,Viatcheslav Kantor,2.5,62,"fertilizer, real estate",Russia
+#688,Louis Le Duff,2.5,69,bakeries,France
+#688,Li Zhongchu,2.5,52,software,China
+#688,"Stephen Mandel, Jr.",2.5,60,hedge funds,United States
+#688,Mohamed Mansour,2.5,68,diversified,Egypt
+#688,Najib Mikati,2.5,60,telecom,Lebanon
+#688,Taha Mikati,2.5,71,telecom,Lebanon
+#688,Michael Milken,2.5,69,investments,United States
+#688,Yoshiko Mori,2.5,75,real estate,Japan
+#688,Philip Niarchos,2.5,62,art collection,Greece
+#688,Sebastian Pinera,2.5,66,investments,Chile
+#688,P.V. Ramprasad Reddy,2.5,57,pharmaceuticals,India
+#688,Gary Rollins,2.5,71,pest control,United States
+#688,Randall Rollins,2.5,84,pest control,United States
+#688,Dieter Schnabel,2.5,70,chemicals,Germany
+#688,Robert Smith,2.5,53,private equity,United States
+#688,Zygmunt Solorz-Zak,2.5,59,TV broadcasting,Poland
+#688,Wang Xing,2.5,43,e-commerce,China
+#688,"William Wrigley, Jr.",2.5,52,chewing gum,United States
+#688,Yu Yong,2.5,55,mining investments,China
+#688,Eddie & Sol Zakay,2.5,65,real estate,United Kingdom
+#688,Christoph Zeller,2.5,58,dental implants,Liechtenstein
+#688,Mortimer Zuckerman,2.5,78,"real estate, media",United States
+#722,Rahul Bajaj,2.4,77,motorcycles,India
+#722,George Bishop,2.4,79,oil & gas,United States
+#722,Jim Breyer,2.4,54,venture capital,United States
+#722,Bernardo Caprotti,2.4,90,grocery stores,Italy
+#722,Tatiana Casiraghi,2.4,32,beer,Monaco
+#722,John Caudwell,2.4,63,mobile phones,United Kingdom
+#722,Jason Chang,2.4,71,electronics,Singapore
+#722,"Chase Coleman, III.",2.4,40,hedge fund,United States
+#722,Judy Faulkner,2.4,72,health IT,United States
+#722,Bernd Freier,2.4,59,retail,Germany
+#722,Reid Hoffman,2.4,48,LinkedIn,United States
+#722,Huang Shih Tsai,2.4,64,real estate,Hong Kong
+#722,Igor Kesaev,2.4,49,"tobacco distribution, retail",Russia
+#722,Andrei Kozitsyn,2.4,55,metals,Russia
+#722,Raj Kumar & Kishin RK,2.4,61,real estate,Singapore
+#722,Marc Ladreit de Lacharriere,2.4,75,finance,France
+#722,Manuel Lao Hernandez,2.4,71,gambling,Spain
+#722,Patrick Lee,2.4,73,paper,Hong Kong
+#722,Douglas Leone,2.4,58,venture capital,United States
+#722,Lin Xiucheng,2.4,60,electronics,China
+#722,George Lindemann,2.4,80,investments,United States
+#722,Friedhelm Loh,2.4,69,manufacturing,Germany
+#722,Alexander Mamut,2.4,56,investments,Russia
+#722,Hans Melchers,2.4,77,"chemicals, investments",Netherlands
+#722,C. Dean Metropoulos,2.4,69,investments,United States
+#722,Tom Morris,2.4,61,Retail,United Kingdom
+#722,Stefan Olsson,2.4,67,diversified,Sweden
+#722,Sean Parker,2.4,36,Facebook,United States
+#722,Karl-Johan Persson,2.4,41,H&M,Sweden
+#722,Tom Persson,2.4,31,H&M,Sweden
+#722,"Enrique Razon, Jr.",2.4,56,ports,Philippines
+#722,Phillip Ruffin,2.4,81,"casinos, real estate",United States
+#722,Ferit Faik Sahenk,2.4,52,"banking, media",Turkey
+#722,"Julio Mario Santo Domingo, III.",2.4,30,beer,United States
+#722,Michael & Reiner Schmidt-Ruthenbeck,2.4,,retail,Germany
+#722,Richard Schulze,2.4,75,Best Buy,United States
+#722,Charlotte Soderstrom,2.4,39,H&M,Sweden
+#722,"Clemmie Spangler, Jr.",2.4,83,investments,United States
+#722,Warren Stephens,2.4,59,investment banking,United States
+#722,Lawrence Stroll,2.4,56,retail,Canada
+#722,Daniel Tsai,2.4,59,finance,Taiwan
+#722,Richard Tsai,2.4,58,finance,Taiwan
+#722,Wang Changtian,2.4,50,"TV, movie production",China
+#722,Ty Warner,2.4,71,"real estate, plush toys",United States
+#722,Dean White,2.4,92,"billboards, hotels",United States
+#722,Steve Wynn,2.4,74,"casinos, hotels",United States
+#722,Vladimir Yevtushenkov,2.4,67,telecom,Russia
+#722,Michael Ying,2.4,66,retail,Hong Kong
+#722,Zheng Yuewen,2.4,54,investments,China
+#771,Rinat Akhmetov,2.3,49,"steel, coal",Ukraine
+#771,Mohammed Al Issa,2.3,91,investments,Saudi Arabia
+#771,Anthony Bamford,2.3,70,construction equipment,United Kingdom
+#771,Carl Bennet,2.3,64,investments,Sweden
+#771,Patrizio Bertelli,2.3,70,luxury goods,Italy
+#771,Charles Bronfman,2.3,84,liquor,Canada
+#771,Eva Maria Bucher-Haefner,2.3,59,Computer Associates,Switzerland
+#771,"William Conway, Jr.",2.3,66,private equity,United States
+#771,Daniel D'Aniello,2.3,69,private equity,United States
+#771,Edgar de Picciotto,2.3,86,private banking,Switzerland
+#771,Barry Diller,2.3,74,online media,United States
+#771,Fong Yun Wah,2.3,91,real estate,Hong Kong
+#771,Don Hankey,2.3,72,auto loans,United States
+#771,Jimmy Haslam,2.3,62,"gas stations, retail",United States
+#771,Huang Wei,2.3,56,diversified,China
+#771,James Irsay,2.3,56,Indianapolis Colts,United States
+#771,Kim Jung-Ju,2.3,48,online games,South Korea
+#771,Kurt Krieger,2.3,67,furniture retailing,Germany
+#771,Herman Langness,2.3,,food wholesale and retail,Germany
+#771,Mangal Prabhat Lodha,2.3,60,real estate,India
+#771,Bernardo Matte,2.3,60,paper,Chile
+#771,Eliodoro Matte,2.3,70,paper,Chile
+#771,Patricia Matte,2.3,72,paper,Chile
+#771,Vadim Moshkovich,2.3,48,"agriculture, land",Russia
+#771,Alexander Ponomarenko,2.3,51,ports,Russia
+#771,Miuccia Prada,2.3,66,Prada,Italy
+#771,John Pritzker,2.3,63,"hotels, investments",United States
+#771,Penny Pritzker,2.3,56,"hotels, investments",United States
+#771,Michael Rubin,2.3,43,online retailing,United States
+#771,Patrick Ryan,2.3,78,insurance,United States
+#771,Alexander Skorobogatko,2.3,48,ports,Russia
+#771,Helmut Sohmen,2.3,76,shipping,Austria
+#771,Song Zuowen,2.3,69,"aluminum, diversified",China
+#771,Pat Stryker,2.3,59,medical equipment,United States
+#771,Tang Yiu,2.3,81,retailing,Hong Kong
+#771,Tse Ping,2.3,64,pharmaceuticals,China
+#771,Bulat Utemuratov,2.3,58,"mining, banking, hotels",Kazakhstan
+#771,Yeoh Tiong Lay,2.3,86,"construction, real estate",Malaysia
+#771,Zhou Yahui,2.3,39,online games,China
+#810,Saif Al Ghurair,2.2,92,diversified,United Arab Emirates
+#810,John Arrillaga,2.2,78,real estate,United States
+#810,Semahat Sevim Arsel,2.2,87,diversified,Turkey
+#810,Tom Benson,2.2,88,New Orleans Saints,United States
+#810,Jurgen Blickle,2.2,69,auto parts,Germany
+#810,Hubert Burda,2.2,76,publishing,Germany
+#810,Smita Crishna-Godrej,2.2,65,diversified,India
+#810,Ashwin Dani,2.2,73,paints,India
+#810,Eduardo Eurnekian,2.2,83,"airports, investments",Argentina
+#810,John Fisher,2.2,54,Gap,United States
+#810,Fu Liquan,2.2,48,surveillance equipment,China
+#810,Adi Godrej,2.2,73,consumer goods,India
+#810,Jamshyd Godrej,2.2,67,consumer goods,India
+#810,Nadir Godrej,2.2,65,diversified,India
+#810,Noam Gottesman,2.2,54,hedge funds,United States
+#810,Martin Haefner,2.2,62,"software, investments",Switzerland
+#810,Caroline Hagen Kjos,2.2,32,Orkla,Norway
+#810,Bahaa Hariri,2.2,49,"real estate, investments, logistics",Lebanon
+#810,Joshua Harris,2.2,51,private equity,United States
+#810,B. Wayne Hughes,2.2,82,self storage,United States
+#810,Min Kao,2.2,67,navigation equipment,United States
+#810,Brad Kelley,2.2,59,tobacco,United States
+#810,Alicia Koplowitz,2.2,61,"construction, investments",Spain
+#810,Kuok Khoon Hong,2.2,66,palm oil,Singapore
+#810,Edward Lampert,2.2,53,Sears,United States
+#810,Lee Joong-Keun,2.2,75,construction,South Korea
+#810,Lim Sung-Ki,2.2,76,Pharma,South Korea
+#810,Kalanithi Maran,2.2,50,media,India
+#810,Robert Miller,2.2,82,retail,United Kingdom
+#810,Shigenobu Nagamori,2.2,71,motors,Japan
+#810,Rishad Naoroji,2.2,64,consumer goods,India
+#810,Gabe Newell,2.2,53,videogames,United States
+#810,Jay Paul,2.2,68,real estate,United States
+#810,Richard Peery,2.2,77,real estate,United States
+#810,Marc Rowan,2.2,54,private equity,United States
+#810,David Rubenstein,2.2,66,private equity,United States
+#810,Alvaro Saieh Bendeck,2.2,66,banking,Chile
+#810,Shen Guojun,2.2,53,retail,China
+#810,Gil Shwed,2.2,48,software,Israel
+#810,Thomas Siebel,2.2,63,business software,United States
+#810,Paul Singer,2.2,71,hedge funds,United States
+#810,Ted Turner,2.2,77,cable television,United States
+#810,Mark Walter,2.2,55,finance,United States
+#810,Xiao Wenge,2.2,49,entertainment,China
+#854,S. Daniel Abraham,2.1,91,Slim-Fast,United States
+#854,Emilio Azcarraga Jean,2.1,48,TV broadcasting,Mexico
+#854,John Brown,2.1,81,medical equipment,United States
+#854,Chen Bang,2.1,50,hospitals,China
+#854,Jaran Chiaravanont,2.1,85,Diversified,Thailand
+#854,James Coulter,2.1,56,private equity,United States
+#854,Oleg Deripaska,2.1,48,"aluminum, utilities",Russia
+#854,Francisco Ivens de Sa Dias Branco,2.1,81,food production,Brazil
+#854,Bergit Douglas,2.1,69,consumer goods,Germany
+#854,Charles Dunstone,2.1,52,mobile phones,United Kingdom
+#854,Feng Hailiang,2.1,55,"copper, real estate",China
+#854,David Filo,2.1,49,Yahoo,United States
+#854,Gordon Getty,2.1,82,Getty Oil,United States
+#854,Ivan Glasenberg,2.1,59,mining,Switzerland
+#854,Alec Gores,2.1,63,private equity,United States
+#854,Stein Erik Hagen,2.1,59,retail,Norway
+#854,Carlos Hank Rhon,2.1,68,banking,Mexico
+#854,John Henry,2.1,66,sports,United States
+#854,Stanley Hubbard,2.1,82,DirecTV,United States
+#854,Johnelle Hunt,2.1,84,trucking,United States
+#854,Ji Changqun,2.1,48,real estate,China
+#854,Jiang Weiping,2.1,61,chemicals,China
+#854,Sumet Jiaravanon,2.1,81,Diversified,Thailand
+#854,Montri Jiaravanont,2.1,84,diversified,Thailand
+#854,Aerin Lauder Zinterhofer,2.1,46,cosmetics,United States
+#854,Maritsa Lazari,2.1,71,real estate,United Kingdom
+#854,Peter Lim,2.1,62,investments,Singapore
+#854,Igor Makarov,2.1,53,gas,Russia
+#854,Joe Mansueto,2.1,59,investment research,United States
+#854,Hans Georg Naeder,2.1,54,prosthetics,Germany
+#854,Maja Oeri,2.1,61,Roche Holding,Switzerland
+#854,Alfred Oetker,2.1,49,consumer goods,Germany
+#854,August Oetker,2.1,72,consumer goods,Germany
+#854,Carl Ferdinand Oetker,2.1,43,consumer goods,Germany
+#854,Christian Oetker,2.1,67,consumer goods,Germany
+#854,Julia Oetker,2.1,37,consumer goods,Germany
+#854,Richard Oetker,2.1,65,consumer goods,Germany
+#854,Park Hyeon-Joo,2.1,57,mutual funds,South Korea
+#854,Jean (Gigi) Pritzker,2.1,54,"hotels, investments",United States
+#854,Nicolas Puech,2.1,73,Hermes,France
+#854,Mochtar Riady,2.1,86,diversified,Indonesia
+#854,Rosely Schweizer,2.1,75,consumer goods,Germany
+#854,Vivek Chaand Sehgal,2.1,59,auto parts,Australia
+#854,Erik Selin,2.1,48,Balder,Sweden
+#854,Scott Simplot,2.1,69,fertilizer,United States
+#854,Dan Snyder,2.1,51,Washington Redskins,United States
+#854,Alexandre Soares dos Santos,2.1,81,retail,Portugal
+#854,Evan Spiegel,2.1,25,Snapchat,United States
+#854,Sze Man Bok,2.1,66,hygiene products,China
+#854,David Teoh,2.1,59,telecommunications,Australia
+#854,Arne Wilhelmsen,2.1,85,cruise ships,Norway
+#854,Chip Wilson,2.1,59,Lululemon,Canada
+#906,Juan Abello,2,74,investments,Spain
+#906,William Ackman,2,49,hedge funds,United States
+#906,Faisal Bin Qassim Al Thani,2,68,"hotels, diversified",Qatar
+#906,Emanuella Barilla,2,49,Barilla pasta,Italy
+#906,Guido Barilla,2,57,Barilla pasta,Italy
+#906,Luca Barilla,2,56,Barilla pasta,Italy
+#906,Paolo Barilla,2,54,Barilla pasta,Italy
+#906,Ron Baron,2,72,money management,United States
+#906,Rainer Blickle,2,68,auto parts,Germany
+#906,Cai Kui,2,53,real estate,China
+#906,Jose and Francisco Jose Calderon Rojas,2,,beverages,Mexico
+#906,Gustavo Cisneros,2,70,media,Venezuela
+#906,James Dinan,2,56,hedge funds,United States
+#906,Murali Divi,2,65,pharmaceuticals,India
+#906,Ennio Doris,2,75,financial services,Italy
+#906,Glenn Dubin,2,58,hedge funds,United States
+#906,Miguel Fluxa Rossello,2,77,hotels,Spain
+#906,Gerald Ford,2,71,banking,United States
+#906,James France,2,71,"Nascar, racing",United States
+#906,Bill Gross,2,71,investments,United States
+#906,Huang Wenji,2,47,umbrellas,China
+#906,Hui Lin Chit,2,62,hygiene products,China
+#906,Erman Ilicak,2,48,construction,Turkey
+#906,John Kapoor,2,72,healthcare,United States
+#906,Mustafa Rahmi Koc,2,85,diversified,Turkey
+#906,Mustafa Kucuk,2,52,Fashion and Retail,Turkey
+#906,Timur Kulibaev,2,49,banking,Kazakhstan
+#906,Dinara Kulibaeva,2,48,banking,Kazakhstan
+#906,Spiro Latsis,2,69,"banking, shipping",Greece
+#906,Thomas Lee,2,71,leveraged buyouts,United States
+#906,Vincent Lo,2,66,real estate,Hong Kong
+#906,"Henry Nicholas, III.",2,56,semiconductors,United States
+#906,Akio Nitori,2,72,retail,Japan
+#906,Bob Parsons,2,65,web hosting,United States
+#906,Robert Pera,2,38,wireless networking gear,United States
+#906,Daniel Pritzker,2,57,"hotels, investments",United States
+#906,Chandru Raheja,2,75,real estate,India
+#906,Stewart Rahr,2,70,drug distribution,United States
+#906,Larry Robbins,2,46,hedge funds,United States
+#906,Thomas Secunda,2,61,Bloomberg LP,United States
+#906,Yasumitsu Shigeta,2,51,mobile telecom,Japan
+#906,Sit Kwong Lam,2,48,"oil, transportation",Hong Kong
+#906,Tahir,2,64,diversified,Indonesia
+#906,Sarik Tara,2,85,construction,Turkey
+#906,Clemens Toennies,2,59,meat processing,Germany
+#906,T.Y. Tsai,2,,finance,Taiwan
+#906,Peter Unger,2,71,auto repair,Germany
+#906,Sunil Vaswani,2,52,diversified,United Kingdom
+#906,Georg von Opel,2,49,real estate/investments,Germany
+#906,David Walentas,2,77,real estate,United States
+#906,Wu Guangming,2,54,medical equipment,China
+#906,Yan Zhi,2,43,real estate,China
+#906,Yi Zheng,2,45,software,China
+#959,Mohamed Al Fayed,1.9,87,"retail, investments",Egypt
+#959,Louis Bacon,1.9,57,hedge funds,United States
+#959,Othman Benjelloun,1.9,83,"banking, insurance",Morocco
+#959,Rossana Camargo de Arruda Botelho,1.9,66,construction,Brazil
+#959,Pierre Chen,1.9,58,"art, electronics",Taiwan
+#959,John Coates,1.9,46,online gambling,United Kingdom
+#959,Scott Cook,1.9,63,software,United States
+#959,Edson de Godoy Bueno,1.9,72,"hospitals, health care",Brazil
+#959,Dermot Desmond,1.9,65,finance,Ireland
+#959,Du Jiangtao,1.9,46,chemicals,China
+#959,Aloysio de Andrade Faria,1.9,95,banking,Brazil
+#959,Carlo Fidani,1.9,61,real estate,Canada
+#959,Rakesh Gangwal,1.9,63,Airlines,United States
+#959,Fiona Geminder,1.9,51,packaging,Australia
+#959,Joseph Grendys,1.9,54,meat processing,United States
+#959,David Hains,1.9,85,finance,Australia
+#959,Huang Qiaoling,1.9,57,amusement parks,China
+#959,Manuel Jove,1.9,74,real estate,Spain
+#959,Baba Kalyani,1.9,67,engineering,India
+#959,Saleh Kamel,1.9,74,"banking, healthcare",Saudi Arabia
+#959,Bruce Karsh,1.9,60,private equity,United States
+#959,King Pak Fu,1.9,46,real estate,Hong Kong
+#959,William Koch,1.9,75,"oil, investments",United States
+#959,Stephen Lansdown,1.9,63,financial services,Guernsey
+#959,Lee Boo-Jin,1.9,45,computer services/tourism,South Korea
+#959,Lee Man Tat,1.9,86,food,Hong Kong
+#959,Liang Xinjun,1.9,48,conglomerate,China
+#959,Liang Yunchao,1.9,47,nutrition supplements,China
+#959,Howard Marks,1.9,69,private equity,United States
+#959,"Drayton McLane, Jr.",1.9,79,"Wal-Mart, logistics",United States
+#959,Thomas Meyer,1.9,56,apparel retailer,Switzerland
+#959,N.R. Narayana Murthy,1.9,69,software services,India
+#959,David Nahmad,1.9,68,art,Monaco
+#959,Renata de Camargo Nascimento,1.9,65,construction,Brazil
+#959,Madeleine Olsson Ericksson,1.9,71,diversified,Sweden
+#959,Regina de Camargo Pires Oliveira Dias,1.9,62,construction,Brazil
+#959,Murdaya Poo,1.9,75,diversified,Indonesia
+#959,Que Wenbin,1.9,52,pharmaceuticals,China
+#959,Luigi Rovati,1.9,87,pharmaceuticals,Italy
+#959,Seo Jung-Jin,1.9,58,biotechnology,South Korea
+#959,Yuri Shefler,1.9,48,alcohol,Russia
+#959,Shin Chang-Jae,1.9,62,insurance,South Korea
+#959,Jon Stryker,1.9,57,medical equipment,United States
+#959,Sunny Varkey,1.9,58,education,India
+#959,Vincent Viola,1.9,60,electronic trading,United States
+#959,Radovan Vitek,1.9,44,real estate,Czech Republic
+#959,Wang Jing,1.9,43,telecom services,China
+#959,Meg Whitman,1.9,59,eBay,United States
+#959,Wu Zhigang,1.9,81,food,China
+#959,Yao Zhenhua,1.9,46,logistics & real estate,China
+#959,Denise York,1.9,65,San Francisco 49ers,United States
+#959,Zhou Chengjian,1.9,50,apparel retailer,China

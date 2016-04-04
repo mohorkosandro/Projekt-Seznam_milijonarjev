@@ -1,0 +1,1001 @@
+mesto,ime,rezidenca,stevilo_otrok,izobrazba
+#1,Bill Gates,"Medina, WA",3,"Drop Out, Harvard University"
+#2,Amancio Ortega,"La Coruna, Spain",3,
+#3,Warren Buffett,"Omaha, NE",3,"Bachelor of Arts / Science, University of Nebraska Lincoln; Master of Science, Columbia University"
+#4,Carlos Slim Helu & family,"Mexico City, Mexico",6,"Bachelor of Arts / Science, Universidad Nacional Autonoma de Mexico"
+#5,Jeff Bezos,"Seattle, WA",4,"Bachelor of Arts / Science, Princeton University"
+#6,Mark Zuckerberg,"Palo Alto, CA",,"Drop Out, Harvard University"
+#7,Larry Ellison,"Woodside, CA",2,"Drop Out, University of Chicago; Drop Out, University of Illinois, Urbana-Champaign"
+#8,Michael Bloomberg,"New York, NY",2,"Bachelor of Arts / Science, Johns Hopkins University; Master of Business Administration, Harvard Business School"
+#9,Charles Koch,"Wichita, KS",2,"Bachelor of Arts / Science, Massachusetts Institute of Technology; Master of Science, Massachusetts Institute of Technology"
+#9,David Koch,"New York, NY",3,"Bachelor of Arts / Science, Massachusetts Institute of Technology; Master of Science, Massachusetts Institute of Technology"
+#11,Liliane Bettencourt & family,"Paris, France",1,
+#12,Larry Page,"Palo Alto, CA",1,"Bachelor of Arts / Science, University of Michigan; Master of Science, Stanford University"
+#13,Sergey Brin,"Los Altos, CA",2,"Master of Science, Stanford University; Bachelor of Arts / Science, University of Maryland, College Park"
+#14,Bernard Arnault & family,"Paris, France",5,"Bachelor of Arts / Science, Ecole Polytechnique de Paris"
+#15,Jim Walton,"Bentonville, AR",4,"Bachelor of Arts / Science, University of Arkansas"
+#16,Alice Walton,"Fort Worth, TX",,"Bachelor of Arts / Science, Trinity University"
+#17,S. Robson Walton,"Bentonville, AR",3,"Bachelor of Arts / Science, University of Arkansas; Doctor of Jurisprudence, Columbia University"
+#18,Wang Jianlin,"Beijing, China",1,Liaoning University
+#19,Jorge Paulo Lemann,"zurich, Switzerland",5,"Bachelor of Arts / Science, Harvard University"
+#20,Li Ka-shing,"Hong Kong, Hong Kong",2,"Drop Out, High School"
+#21,Beate Heister & Karl Albrecht Jr.,,,
+#22,Sheldon Adelson,"Las Vegas, NV",5,"Drop Out, City College of New York"
+#23,George Soros,"Katonah, NY",5,"Bachelor of Arts / Science, London School of Economics"
+#24,Phil Knight,"Hillsboro, OR",3,"Bachelor of Arts / Science, University of Oregon; Master of Business Administration, Stanford Graduate School of Business"
+#25,David Thomson & family,"Toronto, Canada",4,"Master of Arts, University of Cambridge"
+#26,Steve Ballmer,"Hunts Point, WA",3,"Bachelor of Arts / Science, Harvard University; Drop Out, Stanford University"
+#27,"Forrest Mars, Jr.","Big Horn, WY",7,"Bachelor of Arts / Science, Yale University; Diploma, The Hotchkiss School; Master of Business Administration, Leonard N. Stern School of Business"
+#27,Jacqueline Mars,"The Plains, VA",3,"Bachelor of Arts / Science, Bryn Mawr College"
+#27,John Mars,"Jackson, WY",3,"Bachelor of Arts / Science, Yale University; Diploma, The Hotchkiss School"
+#30,Maria Franca Fissolo & family,"Monaco, Monaco",2,
+#31,Lee Shau Kee,"Hong Kong, Hong Kong",5,
+#32,Stefan Persson,"Stockholm, Sweden",3,"Associate in Arts / Science, University of Stockholm"
+#33,Jack Ma,"Hangzhou, China",,"Bachelor of Arts / Science, Hangzhou Teacher's Institute"
+#34,"Theo Albrecht, Jr. & family","Mulheim an der Ruhr, Germany",1,
+#35,Michael Dell,"Austin, TX",4,"Drop Out, The University of Texas at Austin"
+#36,Mukesh Ambani,"Mumbai, India",3,"Bachelor of Science in Engineering, University of Bombay; Drop Out, Stanford University"
+#37,Leonardo Del Vecchio,"Milan, Italy",6,
+#38,Susanne Klatten,"Bad Homburg, Germany",3,"Master of Business Administration, International Institute for Management and Development"
+#39,Georg Schaeffler,"Herzogenaurach, Germany",4,
+#40,Paul Allen,"Mercer Island, WA",,"Drop Out, Washington State University"
+#41,Prince Alwaleed Bin Talal Alsaud,"Riyadh, Saudi Arabia",2,"Bachelor of Arts / Science, Menlo College; Master of Science, Syracuse University"
+#42,Joseph Safra,"Sao Paulo, Brazil",4,
+#43,Carl Icahn,"New York, NY",2,"Bachelor of Arts / Science, Princeton University; Drop Out, New York University"
+#44,Laurene Powell Jobs & family,"Palo Alto, CA",3,"Bachelor of Arts / Science, University of Pennsylvania Wharton School; Master of Business Administration, Stanford Graduate School of Business"
+#44,Dilip Shanghvi,"Mumbai, India",2,"Bachelor of Arts / Science, Calcutta University"
+#46,Ma Huateng,"Shenzhen, China",,"Bachelor of Arts / Science, Shenzhen University"
+#47,Dieter Schwarz,"Neckarsulm, Germany",2,
+#48,Ray Dalio,"Greenwich, CT",4,"Bachelor of Arts / Science, Long Island University; Master of Business Administration, Harvard Business School"
+#48,Stefan Quandt,"Frankfurt, Germany",1,"Associate in Arts / Science, Technical University of Karlsruhe"
+#50,James Simons,"East Setauket, NY",3,"Bachelor of Arts / Science, Massachusetts Institute of Technology; Doctorate, University of California Berkeley"
+#51,Aliko Dangote,"Lagos, Nigeria",3,"Bachelor of Arts / Science, Al-Azhar University"
+#51,Michael Otto & family,"Hamburg, Germany",2,"Doctorate, University of Munich; Doctorate, University of Hamburg"
+#53,Len Blavatnik,"London, United Kingdom",,"Bachelor of Arts / Science, Moscow State University; Master of Science, Columbia University; Master of Business Administration, Harvard Business School"
+#54,Donald Bren,"Newport Beach, CA",7,"Bachelor of Arts / Science, University of Washington"
+#55,Azim Premji,"Bangalore, India",2,"Bachelor of Arts / Science, Stanford University"
+#56,Serge Dassault & family,"Paris, France",4,"Bachelor of Arts / Science, Ecole Polytechnique"
+#57,Tadashi Yanai & family,"Tokyo, Japan",2,"Bachelor of Arts / Science, Waseda University"
+#58,Cheng Yu-tung,"Hong Kong, Hong Kong",4,
+#58,Hinduja family,"London, United Kingdom",,
+#60,Leonid Mikhelson,"Moscow, Russia",1,"Bachelor of Arts / Science, Kuybyshev Engineering and Construction Institute"
+#60,David & Simon Reuben,"London, United Kingdom",3,"Sir John Cass College, London"
+#62,Stefano Pessina,"Monte Carlo, Monaco",2,"Bachelor of Arts / Science, University of Milan"
+#63,Mikhail Fridman,"London, United Kingdom",4,"Bachelor of Arts / Science, Moscow Institute of Steel and Alloys"
+#64,Dietrich Mateschitz,"Fuschl am See, Austria",1,"Master of Business Administration, University of Vienna"
+#65,Abigail Johnson,"Milton, MA",2,"Bachelor of Arts / Science, Hobart and William Smith; Master of Business Administration, Harvard Business School"
+#65,Kjeld Kirk Kristiansen,"Billund, Denmark",3,"Bachelor of Arts / Science, Aarhus Business School; Master of Business Administration, International Institute for Management and Development"
+#65,Joseph Lau,"Hong Kong, Hong Kong",5,
+#68,Gerald Cavendish Grosvenor & family,"Chester, United Kingdom",4,
+#68,Thomas & Raymond Kwok,"Hong Kong, Hong Kong",,
+#68,Marcel Herrmann Telles,"Sao Paulo, Brazil",2,"Bachelor of Arts / Science, Universidade Federal do Rio de Janeiro"
+#71,Henry Sy & family,"Manila, Philippines",6,"Bachelor of Arts / Science, Far Eastern University"
+#72,Steve Cohen,"Greenwich, CT",7,"Bachelor of Arts / Science, University of Pennsylvania Wharton School"
+#73,Pallonji Mistry,"Mumbai, India",4,
+#73,Hans Rausing,"Wadhurst, United Kingdom",3,
+#73,Alisher Usmanov,"Moscow, Russia",,"Master of Laws, Moscow Institute of International Relations; Master, Finance Academy under the Government of the Russian Federation"
+#76,Charlene de Carvalho-Heineken & family,"London, United Kingdom",5,"Bachelor of Arts / Science, Rijnlands Lyceum Wassenaar; Doctor of Jurisprudence, University of Leiden"
+#77,Charles Ergen,"Denver, CO",5,"Bachelor of Arts / Science, University of Tennessee Knoxville; Master of Business Administration, Wake Forest University School of Business"
+#78,Ronald Perelman,"New York, NY",8,"Bachelor of Arts / Science, University of Pennsylvania; Master of Business Administration, Wharton School"
+#78,Vladimir Potanin,"Moscow, Russia",4,"Bachelor of Arts / Science, Moscow Institute of International Relations"
+#80,Stephen Ross,"New York, NY",4,"Bachelor of Arts / Science, University of Michigan; Doctor of Jurisprudence, Wayne State University; Master of Laws, New York University"
+#81,Patrick Soon-Shiong,"Los Angeles, CA",2,"Bachelor of Arts / Science, University of Witwatersrand; Medical Doctor, University of Witwatersrand; Master of Science, University of British Columbia"
+#82,Masayoshi Son,"Tokyo, Japan",2,"Bachelor of Arts / Science, University of California Berkeley"
+#82,Heinz Hermann Thiele & family,"Munich, Germany",2,"LLM, University of Munich"
+#84,Francois Pinault & family,"Paris, France",3,"Drop Out, High School"
+#85,David Tepper,"Livingston, NJ",3,"Bachelor of Arts / Science, University of Pittsburgh; Master of Business Administration, David A. Tepper School of Business"
+#85,Gennady Timchenko,"Geneva, Switzerland",3,"Bachelor of Arts / Science, Leningrad Mechanical Institute"
+#87,Carlos Alberto Sicupira,"St. Gallen, Switzerland",3,"Bachelor of Arts / Science, Universidade Federal do Rio de Janeiro"
+#88,Shiv Nadar,"Delhi, India",1,"Bachelor of Arts / Science, PSG College of Technology"
+#88,Thomas Peterffy,"Palm Beach, FL",3,
+#90,Robin Li,"Beijing, China",4,"Bachelor of Arts / Science, Peking University; Master of Arts, University at Buffalo"
+#90,Alain Wertheimer,"New York, NY",3,
+#90,Gerard Wertheimer,"New York, NY",2,
+#93,Alexey Mordashov,"Moscow, Russia",6,"Bachelor of Arts / Science, Leningrad Institute of Ec; Master of Business Administration, University of Northumbria"
+#94,Elon Musk,"Los Angeles, CA",5,"Bachelor of Arts / Science, University of Pennsylvania"
+#94,Charoen Sirivadhanabhakdi,"Bangkok, Thailand",5,
+#96,Petr Kellner,"Vrane nad Vltavou, Czech Republic",4,"Bachelor of Arts / Science, University of Economics in Prague"
+#96,Rupert Murdoch & family,"New York, NY",6,"Bachelor of Arts / Science, Oxford University; Master of Arts, Oxford University"
+#98,Viktor Vekselberg,"Moscow, Russia",2,"Bachelor of Arts / Science, Moscow State University of Railway Engineering"
+#99,Lukas Walton,"Jackson, WY",,"Bachelor of Arts / Science, Colorado College"
+#100,Eric Schmidt,"Atherton, CA",2,"Bachelor of Arts / Science, Princeton University; Doctorate, University of California Berkeley; Master of Science, University of California Berkeley"
+#101,Iris Fontbona & family,"Santiago, Chile",3,
+#101,Massimiliana Landini Aleotti & family,"Milan, Italy",2,
+#103,Mike Adenuga,"Lagos, Nigeria",7,"Master of Business Administration, Pace University, New York"
+#103,Klaus-Michael Kuehne,"Schindellegi, Switzerland",,
+#103,Robert Kuok,"Hong Kong, Hong Kong",8,"Bachelor of Arts / Science, Raffles College"
+#103,"Samuel Newhouse, Jr.","New York, NY",3,"Diploma, High School"
+#107,Lei Jun,"Beijing, China",2,"Bachelor of Science in Engineering, Wuhan University"
+#108,Philip Anschutz,"Denver, CO",3,"Bachelor of Arts / Science, University of Kansas"
+#108,Jim Kennedy,"Atlanta, GA",3,"Bachelor of Arts / Science, University of Denver"
+#108,Blair Parry-Okeden,"Scone, Australia",2,"Diploma, High School; Bachelor of Arts / Science, University of Denver"
+#108,John Paulson,"New York, NY",2,"Bachelor of Arts / Science, New York University; Master of Business Administration, Harvard Business School"
+#112,Lee Kun-Hee,"Seoul, South Korea",3,"Bachelor of Arts / Science, Waseda University"
+#113,Hasso Plattner & family,"Heidelberg, Germany",2,"Master of Science, University of Karlsruhe"
+#113,Stephen Schwarzman,"New York, NY",3,"Bachelor of Arts / Science, Yale University; Master of Business Administration, Harvard Business School"
+#115,Andrew Beal,"Dallas, TX",6,"Drop Out, Baylor University"
+#116,Vladimir Lisin,"Moscow, Russia",3,"Bachelor of Arts / Science, Siberian Metallurgical Institute; Doctorate, Russian Academy of Economics"
+#116,"John Menard, Jr.","Eau Claire, WI",6,"Bachelor of Arts / Science, University of Wisconsin, Eau Claire"
+#116,Donald Newhouse,"Somerset County, NJ",3,"Drop Out, Syracuse University"
+#116,Udo & Harald Tschira,,,
+#116,Galen Weston & family,"Toronto, Canada",2,"Bachelor of Arts / Science, University of Western Ontario"
+#121,German Larrea Mota Velasco & family,"Mexico City, Mexico",,
+#122,He Xiangjian,"Foshan, China",3,
+#122,Leonard Lauder,"New York, NY",2,"Bachelor of Arts / Science, University of Pennsylvania"
+#124,Vagit Alekperov,"Moscow, Russia",1,"Bachelor of Science in Engineering, Azerbaijan Institute of Oil and Chemistry"
+#124,Dustin Moskovitz,"San Francisco, CA",,"Drop Out, Harvard University"
+#124,Luis Carlos Sarmiento,"Bogota, Colombia",5,"Bachelor of Arts / Science, National University of Colombia"
+#127,Gina Rinehart,"Perth, Australia",4,
+#128,German Khan,"Moscow, Russia",4,"Bachelor of Arts / Science, Moscow Institute of Steel and Alloys"
+#129,Ernesto Bertarelli,"Gstaad, Switzerland",3,"Bachelor of Arts / Science, Babson College; Master of Business Administration, Harvard University"
+#129,Hui Ka Yan,"Guangzhou, China",2,"Bachelor of Arts / Science, Wuhan U of Science & Tec"
+#129,Jan Koum,"Santa Clara, CA",,"Drop Out, San Jose State University"
+#129,Xavier Niel,"Paris, France",3,
+#133,John Fredriksen,"London, United Kingdom",2,
+#133,Cyrus Poonawalla,"Pune, India",1,"Bachelor of Arts / Science, Pune University; Doctorate, Pune University"
+#135,Gianluigi & Rafaela Aponte,"Geneva, Switzerland",2,
+#135,Lakshmi Mittal,"London, United Kingdom",2,"Bachelor of Arts / Science, St Xavier's College Calcutta"
+#135,Eyal Ofer,"Monte Carlo, Monaco",4,
+#138,Mohammed Al Amoudi,"Jeddah, Saudi Arabia",8,
+#139,Hank & Doug Meijer,"Grand Rapids, MI",,
+#139,Andrey Melnichenko,"Moscow, Russia",1,"Bachelor of Arts / Science, Plekhanov Russian Academy"
+#141,William Ding,"Guangzhou, China",,"Bachelor of Arts / Science, University of Electronic Science and Technology of China"
+#141,R. Budi Hartono,"Kudus, Indonesia",3,
+#141,Reinhold Wuerth & family,"Kuenzelsau, Germany",3,
+#144,James Goodnight,"Cary, NC",3,"Bachelor of Arts / Science, North Carolina State University; Doctorate, North Carolina State University; Master of Science, North Carolina State University"
+#144,Johann Graf,"Vienna, Austria",3,
+#146,Michael Hartono,"Kudus, Indonesia",4,
+#146,Dietmar Hopp & family,"Walldorf, Germany",2,"Master of Science, University of Karlsruhe"
+#148,Stanley Kroenke,"Columbia, MO",2,"Bachelor of Arts / Science, University of Missouri; Master of Business Administration, Robert J. Trulaske, Sr. College of Business"
+#148,Dmitry Rybolovlev,"Monaco, Monaco",2,"Medical Doctor, Perm Medical Institute"
+#148,Suh Kyung-Bae,"Seoul, South Korea",2,"Bachelor of Arts / Science, Yonsei University; Master of Business Administration, Samuel Curtis Johnson Graduate School of Management"
+#151,Roman Abramovich,"Moscow, Russia",7,"Bachelor of Arts / Science, Moscow State Law Academy"
+#151,Emmanuel Besnier,"Laval, France",,
+#151,Lui Che Woo,"Hong Kong, Hong Kong",5,
+#151,Robert & Philip Ng,"Singapore, Singapore",,
+#151,Mikhail Prokhorov,"Moscow, Russia",,"Bachelor of Arts / Science, Moscow Institute of Finance"
+#151,August von Finck,"Thurgau, Switzerland",4,
+#157,Ken Griffin,"Chicago, IL",2,"Bachelor of Arts / Science, Harvard University"
+#158,Ananda Krishnan,"Kuala Lumpur, Malaysia",3,"Bachelor of Arts / Science, Melbourne University; Master of Business Administration, Harvard University"
+#159,Eli Broad,"Los Angeles, CA",2,"Bachelor of Arts / Science, Michigan State University; Broad College of Business"
+#159,"Thomas Frist, Jr. & family","Nashville, TN",3,"Bachelor of Arts / Science, Vanderbilt University; Medical Doctor, Washington University"
+#159,"Herbert Kohler, Jr. & family","Kohler, WI",3,"Bachelor of Arts / Science, Yale University"
+#159,Harry Triguboff,"Sydney, Australia",2,"Bachelor of Arts / Science, University of Leeds"
+#163,"Edward Johnson, III.","Boston, MA",3,"Bachelor of Arts / Science, Harvard University"
+#163,Pierre Omidyar,"Honolulu, HI",3,"Bachelor of Arts / Science, Tufts University"
+#163,Takemitsu Takizaki,"Osaka, Japan",,
+#163,Wang Wenyin,"Shenzhen, China",,
+#167,Micky Arison,"Bal Harbour, FL",2,"Drop Out, University of Miami"
+#167,George Kaiser,"Tulsa, OK",3,"Bachelor of Arts / Science, Harvard University; Master of Business Administration, Harvard University"
+#167,Les Wexner & family,"New Albany, OH",4,"Bachelor of Arts / Science, Ohio State University"
+#170,Alberto Bailleres Gonzalez & family,"Mexico City, Mexico",4,
+#171,Dhanin Chearavanont,"Bangkok, Thailand",5,
+#171,Margarita Louis-Dreyfus & family,"Davos, Switzerland",3,
+#173,Alexei Kuzmichev,"London, United Kingdom",1,"Bachelor of Arts / Science, Moscow Institute of Steel and Alloys"
+#174,Nicky Oppenheimer & family,"Johannesburg, South Africa",1,"Bachelor of Arts / Science, Oxford U Christ Church; Master of Arts, Oxford U Christ Church"
+#174,Peter Woo,"Hong Kong, Hong Kong",3,"Master of Business Administration, Columbia Business School"
+#176,Jean-Claude Decaux & family,"Paris, France",3,
+#176,David Geffen,"Malibu, CA",,"Drop Out, The University of Texas at Austin"
+#178,James Chambers,"Palisades, NY",,
+#178,Walter Droege,"Dusseldorf, Germany",,
+#178,Graeme Hart,"Auckland, New Zealand",2,
+#178,Sandra Ortega Mera,"La Coruna, Spain",3,
+#178,Katharine Rayner,"East Hampton, NY",,
+#178,Margaretta Taylor,"Southampton, NY",,
+#184,John Grayken,"London, United Kingdom",4,"Bachelor of Arts / Science, University of Pennsylvania; Master of Business Administration, Harvard Business School"
+#184,Uday Kotak,"Mumbai, India",2,"Bachelor of Arts / Science, Bombay University; Master of Business Administration, University of Bombay"
+#184,Liu Qiangdong,"Beijing, China",,"Bachelor of Arts / Science, Renmin University of China"
+#184,John Malone,"Elizabeth, CO",2,"Bachelor of Arts / Science, Yale University; Doctorate, Johns Hopkins University; Master of Science, Johns Hopkins University"
+#188,Silvio Berlusconi & family,"Milan, Italy",5,"Doctor of Jurisprudence, University of Milan"
+#188,Garrett Camp,"San Francisco, CA",,"Master of Science, University of Calgary"
+#188,Curt Engelhorn & family,"Gstaad, Switzerland",5,"Bachelor of Arts / Science, The University of Texas at Austin"
+#188,Travis Kalanick,"San Francisco, CA",,"Drop Out, University of California, Los Angeles"
+#188,Walter Kwok,"Hong Kong, Hong Kong",,"Master of Science, University of London"
+#188,Eduardo Saverin,"Singapore, Singapore",,"Bachelor of Arts / Science, Harvard University"
+#188,Xu Shihui & family,"Quanzhou, China",,
+#188,Zong Qinghou,"Hangzhou, China",1,
+#196,Giorgio Armani,"Milan, Italy",,"Drop Out, University of Piacenza"
+#196,Kumar Birla,"Mumbai, India",3,"Bachelor of Arts / Science, University of Bombay; Master of Business Administration, London Business School"
+#196,Eva Gonda de Rivera & family,"Monterrey, Mexico",5,"Bachelor of Arts / Science, Monterrey Institute of Technology and Higher Education"
+#196,Wolfgang Marguerre,"Heidelberg, Germany",3,
+#196,Hansjoerg Wyss,"Wilson, WY",1,"Master of Business Administration, Harvard University; Master of Science, Swiss Federal Institute of Technology"
+#201,Jay Y. Lee,"Seoul, South Korea",2,"Bachelor of Arts / Science, Seoul National University; Master of Business Administration, Keio University; Doctorate, Harvard Business School"
+#201,Gordon Moore,"Woodside, CA",2,"Bachelor of Arts / Science, University of California Berkeley; Doctorate, California Institute of Technology"
+#201,Frederik Paulsen,"Lausanne, Switzerland",3,
+#201,Tsai Eng-Meng,"Shanghai, China",,
+#205,Patrick Drahi,"Zermatt, Switzerland",4,
+#205,Philip & Cristina Green,"London, United Kingdom",2,
+#205,Mikhail Gutseriev,"Moscow, Russia",2,"Bachelor of Arts / Science, Kazakh Technological Institute"
+#205,Shahid Khan,"Naples, FL",2,"Bachelor of Arts / Science, University of Illinois, Urbana-Champaign"
+#205,Richard LeFrak & family,"New York, NY",2,"Bachelor of Arts / Science, Amherst College; Doctor of Jurisprudence, Columbia University"
+#205,Tom & Judy Love,"Oklahoma City, OK",4,
+#205,Pan Sutong,"Hong Kong, Hong Kong",1,
+#205,Zhang Zhidong,"Shenzhen, China",,"Bachelor of Arts / Science, Shenzhen University; Master of Arts, South China University of Technology"
+#205,Zhou Qunfei,Hong Kong,,
+#214,Michael Kadoorie,"Hong Kong, Hong Kong",3,
+#214,Jorn Rausing,"Surrey, United Kingdom",,
+#214,John A. Sobrato & family,"Atherton, CA",3,"Bachelor of Arts / Science, Santa Clara University"
+#214,Dennis Washington,"Missoula, MT",2,"Diploma, High School"
+#214,Christoffel Wiese,"Cape Town, South Africa",3,"Bachelor of Arts / Science, University of Stellenbosch; LLB, University of Stellenbosch"
+#219,Francis Choi,"Hong Kong, Hong Kong",3,
+#219,Sergei Galitsky,"Krasnodar, Russia",1,"Bachelor of Arts / Science, Kuban State University"
+#219,Antonia Johnson,"Stockholm, Sweden",4,"Master of Arts, University of Stockholm"
+#219,Pauline MacMillan Keinath,"St. Louis, MO",4,
+#219,Lu Guanqiu,"Hangzhou, China",4,"Doctorate, Hong Kong Polytechnic University"
+#219,Sunil Mittal & family,"Delhi, India",3,"Bachelor of Arts / Science, Punjab University"
+#219,Denis O'Brien,"Dublin, Ireland",4,"Master of Business Administration, Carroll School of Management"
+#219,Augusto & Giorgio Perfetti,"Lugano, Switzerland",,
+#219,Melker Schorling,"Stockholm, Sweden",2,"Master of Business Administration, Gothenburg University"
+#228,Heinrich Deichmann & family,"Essen, Germany",2,
+#228,Terry Gou,"Taipei, Taiwan",3,
+#228,David Green,"Oklahoma City, OK",3,"Diploma, High School"
+#228,Hiroshi Mikitani,"Tokyo, Japan",2,"Master of Business Administration, Harvard University"
+#228,Stef Wertheimer & family,"Tefen, Israel",4,
+#233,Maria Asuncion Aramburuzabala & family,"Mexico City, Mexico",2,"Bachelor of Arts / Science, Instituto Tecnológico Autónomo de México"
+#233,Desh Bandhu Gupta,"Mumbai, India",5,"Master of Science, Bombay University"
+#233,Ralph Lauren,"New York, NY",3,"Diploma, High School"
+#233,Ted Lerner,"Chevy Chase, MD",3,"LLB, George Washington University; Associate in Arts / Science, George Washington University"
+#233,James Ratcliffe,"Hampshire, United Kingdom",,
+#233,Finn Rausing,"London, United Kingdom",,
+#233,Kirsten Rausing,"Newmarket, United Kingdom",,
+#240,Bruce Halle,"Paradise Valley, AZ",4,"Bachelor of Arts / Science, Eastern Michigan University"
+#240,James Irving,"Saint John, Canada",4,
+#240,Jason Jiang,"Shanghai, China",,"Bachelor of Arts / Science, Huadong Normal University; Bachelor of Arts / Science, Huadong Normal University"
+#240,Richard Kinder,"Houston, TX",1,"Bachelor of Arts / Science, University of Missouri; Doctor of Jurisprudence, University of Missouri"
+#240,Juan Roig,"Valencia, Spain",4,
+#240,Charles Schwab,"Atherton, CA",5,"Bachelor of Arts / Science, Stanford University; Master of Business Administration, Stanford Graduate School of Business"
+#240,Aloys Wobben,"Aurich, Germany",1,"Bachelor of Arts / Science, U of Oldenburg"
+#240,Xu Chuanhua & family,"Hangzhou, China",1,
+#248,Vincent Bollore,"Paris, France",4,"LLB, Universite Paris X Nanterre"
+#248,Guenther Fielmann & family,"Hamburg, Germany",2,
+#248,Ray Lee Hunt,"Dallas, TX",5,"Bachelor of Arts / Science, Southern Methodist University"
+#248,Bruce Kovner,"New York, NY",3,"Bachelor of Arts / Science, Harvard University"
+#248,Law Kar Po,"Hong Kong, Hong Kong",3,
+#248,Joe Lewis,"Albany, Bahamas",2,
+#248,Quek Leng Chan,"Kuala Lumpur, Malaysia",3,
+#248,Johann Rupert & family,"Cape Town, South Africa",3,
+#248,Andrei Skoch,"Moscow, Russia",8,State Central Institute of Physical Culture
+#248,Jack Taylor & family,"St. Louis, MO",2,"Drop Out, Washington University"
+#258,Chan Laiwa & family,"Beijing, China",3,
+#258,Anders Holch Povlsen,"Aarhus, Denmark",4,
+#258,Trevor Rees-Jones,"Dallas, TX",2,"Bachelor of Arts / Science, Dartmouth College; Doctor of Jurisprudence, Southern Methodist University"
+#258,Christy Walton & family,"Jackson, WY",1,
+#262,Vivien Chen,"Hong Kong, Hong Kong",3,
+#262,Harold Hamm,"Oklahoma City, OK",5,"Diploma, High School"
+#262,Diane Hendricks,"Afton, WI",7,"Diploma, High School"
+#262,Liu Yongxing,"Shanghai, China",1,
+#262,Ian & Richard Livingstone,"London, United Kingdom",,
+#262,Frank Lowy,"Sydney, Australia",3,
+#262,Ludwig Merckle,"Ulm, Germany",2,
+#262,Dan Olsson,"Gothenburg, Sweden",,
+#270,Majid Al Futtaim & family,"Dubai, United Arab Emirates",,
+#270,Charles Dolan & family,"Oyster Bay, NY",6,"Drop Out, John Carroll University"
+#270,Israel Englander,"New York, NY",3,"Bachelor of Arts / Science, New York University"
+#270,Goh Cheng Liang,"Singapore, Singapore",1,
+#270,"John Gokongwei, Jr.","Manila, Philippines",6,
+#270,Guo Guangchang,"Shanghai, China",3,"Bachelor of Arts / Science, Fudan University; Master of Business Administration, Fudan University"
+#270,Tamara Gustavson & family,"Malibu, CA",2,"Bachelor of Arts / Science, University of Southern California"
+#270,Jerry Jones,"Dallas, TX",3,"Bachelor of Arts / Science, University of Arkansas"
+#270,Karl-Heinz Kipp,"Arosa, Switzerland",2,
+#270,Kwee family,"Singapore, Singapore",5,"Bachelor of Arts / Science, Philadelphia University"
+#270,Willi & Isolde Liebherr & family,"Bulle, Switzerland",,
+#270,Lin Yu-lin,"Taipei, Taiwan",7,
+#270,Arnon Milchan,"Tel Aviv, Israel",4,
+#270,Shashi & Ravi Ruia,"Mumbai, India",,
+#270,David Shaw,"New York, NY",3,"Bachelor of Arts / Science, University of California, San Diego; Doctorate, Stanford University"
+#270,Yang Huiyan,"Foshan, China",,"Bachelor of Arts / Science, Ohio State University"
+#286,Abdulla bin Ahmad Al Ghurair & family,"Dubai, United Arab Emirates",,
+#286,David & Frederick Barclay,"Island of Brecquou, United Kingdom",,
+#286,Richard Branson,"Necker Island, British Virgin Islands",2,"Drop Out, High School"
+#286,Jim Davis & family,"Newton, MA",2,"Bachelor of Arts / Science, Middlebury College"
+#286,Albert Frere,"Charleroi, Belgium",3,"Drop Out, High School"
+#286,Daniel Gilbert,"Franklin, MI",5,"Bachelor of Arts / Science, Michigan State University; LLB, Wayne State University"
+#286,Akira Mori & family,"Tokyo, Japan",3,
+#286,Robert Rowling,"Dallas, TX",2,"Bachelor of Arts / Science, The University of Texas at Austin; Doctor of Jurisprudence, Southern Methodist University"
+#286,Alejandro Santo Domingo,"New York, NY",,"Bachelor of Arts / Science, Harvard University"
+#286,Andres Santo Domingo,"New York, NY",2,"Bachelor of Arts / Science, Brown University"
+#286,Bernard (Barry) Sherman,"Toronto, Canada",4,"Bachelor of Science in Engineering, University of Toronto; Doctorate, Massachusetts Institute of Technology; Master of Science, Massachusetts Institute of Technology"
+#286,Chairul Tanjung,"Jakarta, Indonesia",2,"Medical Doctor, University of Indonesia"
+#298,Carl Cook,"Bloomington, IN",,"Bachelor of Arts / Science, Purdue University; Master of Business Administration, Tippie School of Management"
+#298,Michael & Marian Ilitch & family,"Bingham Farms, MI",7,"Diploma, High School"
+#298,Bidzina Ivanishvili,"Tbilisi, Georgia",4,
+#298,Robert Kraft,"Brookline, MA",4,"Bachelor of Arts / Science, Columbia University; Master of Business Administration, Harvard Business School"
+#298,Lu Zhiqiang,"Beijing, China",,"Master of Arts, Fudan University"
+#298,Michael Stoschek & family,,2,
+#298,Sam Zell,"Chicago, IL",3,"Bachelor of Arts / Science, University of Michigan; Doctor of Jurisprudence, University of Michigan"
+#298,Daniel Ziff,"New York, NY",1,"Bachelor of Arts / Science, Columbia University"
+#298,Dirk Ziff,"North Palm Beach, FL",2,"Bachelor of Arts / Science, Columbia University; Master of Business Administration, Harvard University"
+#298,Robert Ziff,"New York, NY",2,"Bachelor of Arts / Science, Harvard University; Doctor of Jurisprudence, Cornell University"
+#308,Richard DeVos & family,"Holland, MI",4,"Bachelor of Arts / Science, Calvin College"
+#308,Gustaf Douglas,"Stockholm, Sweden",2,"Master of Business Administration, Harvard University"
+#308,Arthur Irving,"Saint John, Canada",5,
+#308,Jia Yueting,"Beijing, China",,
+#308,"Paul Tudor Jones, II.","Greenwich, CT",4,"Bachelor of Arts / Science, University of Virginia"
+#308,Whitney MacMillan,"Minneapolis, MN",2,"Bachelor of Arts / Science, Yale University"
+#308,Sun Guangxin,"Urumqi, China",2,"Master of Arts, Chinese Academy of Social Sciences; EMBA, Tianjin University"
+#308,Teh Hong Piow,"Kuala Lumpur, Malaysia",4,
+#308,Hans Peter Wild,"Zug, Switzerland",2,
+#317,Pyotr Aven,"Moscow, Russia",2,"Ph.D, Moscow State University"
+#317,Laurence Graff & family,"Gstaad, Switzerland",5,
+#317,Charles Johnson,"Palm Beach, FL",6,"Bachelor of Arts / Science, Yale University"
+#317,Lee Shin Cheng,"Jeram, Malaysia",6,"Doctorate, Universiti Putra"
+#317,Richard Li,"Hong Kong, Hong Kong",3,"Drop Out, Stanford University"
+#317,Bruno Schroder & family,"London, United Kingdom",1,"Master of Science, Oxford University; Master of Business Administration, Harvard University"
+#317,Mark Shoen,"Phoenix, AZ",1,
+#324,Dona Bertarelli,"Gstaad, Switzerland",,
+#324,Leon Black,"New York, NY",4,"Bachelor of Arts / Science, Dartmouth College; Master of Business Administration, Harvard University"
+#324,Carlos and Alejandro Bulgheroni,"Buenos Aires, Argentina",,
+#324,Clive Calder,"Cayman Islands, Cayman Islands",2,
+#324,Ann Walton Kroenke,"Columbia, MO",2,"Registered Nurse, Lincoln University"
+#324,George Lucas,"San Anselmo, CA",4,"Bachelor of Arts / Science, University of Southern California"
+#324,Theo Mueller,"Zurich, Switzerland",9,
+#324,Jim Pattison,"Vancouver, Canada",3,
+#324,Sergei Popov,"Moscow, Russia",2,"Bachelor of Arts / Science, Ural State Technical University"
+#324,Sumner Redstone,"Beverly Hills, CA",2,"Bachelor of Arts / Science, Harvard University; Doctor of Jurisprudence, Harvard University"
+#324,Maria-Elisabeth Schaeffler,"Herzogenaurach, Germany",,
+#324,David Sun,"Irvine, CA",2,"Bachelor of Arts / Science, Tatung University"
+#324,Donald Trump,"New York, NY",5,"Bachelor of Arts / Science, University of Pennsylvania"
+#324,John Tu,"Rolling Hills, CA",2,"Bachelor of Arts / Science, Technische Universität Darmstadt"
+#338,Brian Acton,"Palo Alto, CA",1,
+#338,Jeronimo Arango & family,"Los Angeles, CA",,
+#338,Pierre Bellon & family,"Paris, France",4,
+#338,Stanley Druckenmiller,"New York, NY",,"Bachelor of Arts / Science, Bowdoin College"
+#338,David Duffield,"Blackhawk, CA",10,"Bachelor of Arts / Science, Cornell University; Master of Business Administration, Samuel Curtis Johnson Graduate School of Management"
+#338,Micky Jagtiani,"Dubai, United Arab Emirates",3,
+#338,Wolfgang Reimann,,,
+#338,Matthias Reimann-Andersen,,,
+#338,Stefan Reimann-Andersen,,,
+#338,Renate Reimann-Haas,,,
+#338,Emanuele (Lino) Saputo,"Quebec, Canada",3,"Diploma, High School"
+#338,Tong Jinquan,"Shanghai, China",2,
+#338,Wang Chuanfu,"Shenzhen, China",,"Bachelor of Arts / Science, Central South Industrial University of Technology; Master of Science, Beijing Non-Ferrous Research Institute"
+#351,Bernard Broermann,"Koenigstein, Germany",3,"Master of Business Administration, Harvard University"
+#351,Chung Mong-Koo,"Seoul, South Korea",4,"Bachelor of Arts / Science, Hanyang University"
+#351,Joao Roberto Marinho,"Rio de Janeiro, Brazil",3,
+#351,Jose Roberto Marinho,"Rio de Janeiro, Brazil",5,
+#351,Roberto Irineu Marinho,"Rio de Janeiro, Brazil",4,
+#351,Ricardo Salinas Pliego & family,"Mexico City, Mexico",6,"Bachelor of Arts / Science, Tecnológico de Monterrey; Master of Business Administration, A. B. Freeman School of Business"
+#351,Wei Jianjun & family,"Baoding, China",,"Bachelor of Arts / Science, Hebei Province"
+#358,Ralph Dommermuth,"Montabaur, Germany",1,
+#358,Jeffery Hildebrand,"Houston, TX",3,"Bachelor of Arts / Science, The University of Texas at Austin; Master of Science, The University of Texas at Austin"
+#358,Henry Kravis,"New York, NY",2,"Bachelor of Arts / Science, Claremont McKenna College; Master of Business Administration, Columbia Business School"
+#358,Sri Prakash Lohia,"London, United Kingdom",2,"Bachelor of Arts / Science, Delhi University"
+#358,Carrie Perrodo & family,"London, United Kingdom",3,
+#358,Odd Reitan,"Trondheim, Norway",2,
+#358,Stewart and Lynda Resnick,"Beverly Hills, CA",5,"Bachelor of Arts / Science, University of California, Los Angeles; Doctor of Jurisprudence, University of California, Los Angeles"
+#358,Joseph Tsai,"Hong Kong, Hong Kong",3,"Bachelor of Arts / Science, Yale University; Doctor of Jurisprudence, Yale University"
+#358,Wang Wei,"Shenzhen, China",,
+#358,Wee Cho Yaw,"Singapore, Singapore",5,
+#358,M.A. Yusuff Ali,"Abu Dhabi, United Arab Emirates",3,
+#369,Americo Amorim,"Grijo, Portugal",3,
+#369,Dannine Avara,"Houston, TX",,
+#369,John Doerr,"Woodside, CA",2,"Bachelor of Arts / Science, Rice University; Master of Business Administration, Harvard University; Master of Science, Rice University"
+#369,Scott Duncan,"Houston, TX",,
+#369,Milane Frantz,"Houston, TX",,
+#369,Gong Hongjia & family,"Hong Kong, Hong Kong",2,"Bachelor of Arts / Science, Huazhong University of Science and Technology"
+#369,Liu Yonghao & family,"Chengdu, China",2,
+#369,George Roberts,"Atherton, CA",3,"Bachelor of Arts / Science, Claremont McKenna College; Doctor of Jurisprudence, UC Hastings"
+#369,Mark Scheinberg,"Isle of Man, United Kingdom",,"Drop Out, Fanshawe College"
+#369,Reinhold Schmieding,"Naples, FL",2,"Bachelor of Arts / Science, Michigan State University"
+#369,Randa Williams,"Houston, TX",1,"Bachelor of Arts / Science, Rice University; Doctor of Jurisprudence, University of Houston"
+#380,Jin Sook & Do Won Chang,"Beverly Hills, CA",2,"Diploma, High School"
+#380,James Dyson,"Gloucestershire, United Kingdom",3,
+#380,Han Chang-Woo & family,"Kyoto, Japan",6,
+#380,Bertil Hult,"Lucerne, Switzerland",4,
+#380,James Jannard,"San Juan Islands, WA",4,"Drop Out, University of Southern California"
+#380,Vikram Lal,"Delhi, India",3,
+#380,Nancy Walton Laurie,"Henderson, NV",1,"Bachelor of Arts / Science, University of Memphis"
+#380,Iskander Makhmudov,"Moscow, Russia",1,"Bachelor of Arts / Science, Tashkent State University"
+#380,Terrence Pegula,"Boca Raton, FL",5,"Bachelor of Science in Engineering, Pennsylvania State University"
+#380,Jerry Speyer,"New York, NY",4,"Bachelor of Arts / Science, Columbia University; Master of Business Administration, Columbia Business School"
+#380,Leonard Stern,"New York, NY",3,"Bachelor of Arts / Science, New York University; Master of Business Administration, Leonard N. Stern School of Business"
+#380,Lucio Tan & family,"Manila, Philippines",6,"Bachelor of Arts / Science, Far Eastern University"
+#392,Shari Arison,"Tel Aviv, Israel",4,"Drop Out, Miami Dade College"
+#392,Leonid Fedun,"Moscow, Russia",2,"Master of Science, Military Academy F.E.Dzerzhinsky"
+#392,Frits Goldschmeding,"Amsterdam, Netherlands",3,"Doctorate, Free University of Amsterdam"
+#392,Martha Ingram & family,"Nashville, TN",4,"Bachelor of Arts / Science, Vassar College"
+#392,"Rupert Johnson, Jr.","Burlingame, CA",,"Bachelor of Arts / Science, Washington & Lee University"
+#392,Edwin Leong,"Hong Kong, Hong Kong",1,
+#392,Mary Alice Dorrance Malone,"Coatesville, PA",2,"Bachelor of Arts / Science, University of Arizona"
+#392,John Sall,"Cary, NC",4,"Bachelor of Arts / Science, Beloit College; Master of Business Administration, Northern Illinois University"
+#392,Jeffrey Skoll,"Los Angeles, CA",,"Bachelor of Arts / Science, University of Toronto; Master of Business Administration, Stanford Graduate School of Business"
+#392,Sheldon Solow,"New York, NY",2,"Drop Out, New York University"
+#392,Zhou Jianping,"Jiangyin, China",,
+#403,Heinz-Georg Baus,"Monaco, Monaco",1,
+#403,Denise Coates,"Stoke-on-Trent, United Kingdom",5,
+#403,Traudl Engelhorn & family,"Lucerne, Switzerland",4,
+#403,Ursula Engelhorn & family,"Lucerne, Switzerland",1,
+#403,Michael Herz,"Hamburg, Germany",,
+#403,Wolfgang Herz,"Hamburg, Germany",,
+#403,Randal Kirk,,4,"Bachelor of Arts / Science, Radford; Doctor of Jurisprudence, University of Virginia"
+#403,Niels Peter Louis-Hansen,"Humlebaek, Denmark",1,
+#403,Fredrik Lundberg,"Stockholm, Sweden",2,"Bachelor of Arts / Science, Stockholm School of Economics"
+#403,John Morris,"Springfield, MO",4,"Bachelor of Arts / Science, Drury University"
+#403,"H. Ross Perot, Sr.","Dallas, TX",5,"Bachelor of Arts / Science, United States Naval Academy"
+#403,Michael Pieper,"Lucerne, Switzerland",2,"Master of Business Administration, St Gallen University"
+#403,Karen Pritzker,"Branford, CT",4,"Bachelor of Arts / Science, Northwestern University"
+#403,Viktor Rashnikov,"Magnitogorsk, Russia",2,"Bachelor of Science in Engineering, Magnitogorsk Mining and Metallurgical Institute"
+#403,Leandro Rizzuto & family,"Sheridan, WY",4,"Drop Out, St John's University - NY"
+#403,"Edward Roski, Jr.","Los Angeles, CA",3,"Bachelor of Arts / Science, University of Southern California"
+#403,"Walter Scott, Jr. & family","Omaha, NE",6,"Bachelor of Arts / Science, Colorado State University"
+#403,Zhang Jindong,"Nanjing, China",2,"Bachelor of Arts / Science, Nanjing Normal University"
+#421,Rahel Blocher,"Wilen bei Wollerau, Switzerland",,
+#421,Vanich Chaiyawan,"Bangkok, Thailand",8,
+#421,Juan Carlos Escotet,"Caracas, Venezuela",4,"Master, University of Miami"
+#421,Phillip Frost,"Miami Beach, FL",,"Bachelor of Arts / Science, University of Pennsylvania; Medical Doctor, Yeshiva U Albert Einstein College of Medicine"
+#421,Hui Wing Mau,"Hong Kong, Hong Kong",2,"Master of Business Administration, University of South Australia"
+#421,"Jeremy Jacobs, Sr.","East Aurora, NY",6,"Bachelor of Arts / Science, SUNY Buffalo"
+#421,Nathan Kirsh,"London, United Kingdom",3,"Bachelor of Arts / Science, University of Witwatersrand"
+#421,Kwon Hyuk-Bin,"Seoul, South Korea",2,"Bachelor of Arts / Science, Sogang University"
+#421,Magdalena Martullo-Blocher,"Feldmeilen, Switzerland",3,
+#421,Axel Oberwelland,"Berlin, Germany",,
+#421,Idan Ofer,"London, United Kingdom",5,
+#421,Horst Paulmann & family,"Santiago, Chile",3,
+#421,Nassef Sawiris,"Cairo, Egypt",4,"Bachelor of Arts / Science, University of Chicago"
+#421,George Ty & family,"Manila, Philippines",5,
+#435,Alexander Abramov,"Moscow, Russia",3,"Bachelor of Arts / Science, Moscow Institute of Physics and Technology"
+#435,Martin & Olivier Bouygues,"Paris, France",,
+#435,Subhash Chandra,"Mumbai, India",3,
+#435,Archie Aldis Emmerson,"Redding, CA",3,"Diploma, High School"
+#435,Andrei Guriev,"Moscow, Russia",2,"Bachelor of Arts / Science, State Central Institute of Physical Culture"
+#435,Elizabeth Holmes,"Palo Alto, CA",,"Drop Out, Stanford University"
+#435,Masatoshi Ito,"Tokyo, Japan",3,
+#435,Dominika & Sebastian Kulczyk,"Warsaw, Poland",,
+#435,Siegfried Meister,"Landsberg am Lech, Germany",,
+#435,Gwendolyn Sontheim Meyer,"Rancho Santa Fe, CA",2,
+#435,Anthony Pratt,"Melbourne, Australia",2,"Bachelor of Arts / Economics, Monash University"
+#435,Steven Rales,"Santa Barbara, CA",3,"Bachelor of Arts / Science, DePauw University; Law Degree, American University"
+#435,Ira Rennert,"New York, NY",3,"Bachelor of Arts / Science, Brooklyn College; Master of Business Administration, Leonard N. Stern School of Business"
+#435,"Julian Robertson, Jr.","New York, NY",3,"Bachelor of Arts / Science, University of North Carolina"
+#435,Harry Stine,"Adel, IA",4,
+#435,Ronda Stryker,"Portage, MI",3,"Bachelor of Arts / Science, University of Northern Colorado; Master of Arts, Western Michigan University"
+#435,Lottie Tham,"Stockholm, Sweden",3,
+#435,Frank Wang,"Shenzhen, China",,"Bachelor of Arts / Science, Hong Kong University of Science and Technology; Master of Science, Hong Kong University of Science and Technology"
+#453,Gautam Adani,"Ahmedabad, India",2,
+#453,Michael Ashley,"Hertfordshire, United Kingdom",,
+#453,Benu Gopal Bangur,"Kolkata, India",2,"Bachelor of Arts / Science, Calcutta University"
+#453,Peter Buck,"Danbury, CT",1,"Bachelor of Arts / Science, Bowdoin College; Doctorate, Columbia University; Master of Arts, Columbia University"
+#453,Rick Caruso,"Brentwood, CA",4,"Bachelor of Arts / Science, University of Southern California; Doctor of Jurisprudence, Pepperdine University"
+#453,Dan Friedkin,"Houston, TX",4,
+#453,Antti Herlin,"Kirkkonummi, Finland",4,
+#453,Kieu Hoang,"Los Angeles, CA",,
+#453,Savitri Jindal & family,"Hisar, India",9,
+#453,Ronald Lauder,"New York, NY",2,"Bachelor of Arts / Science, University of Pennsylvania Wharton School"
+#453,Liang Wengen,"Changsha, China",1,"Bachelor of Arts / Science, Central South University"
+#453,Masahiro Miki,"Tokyo, Japan",,"Bachelor of Arts / Science, Toho Gakuen tanki University"
+#453,Igor Olenicoff,"Lighthouse Point, FL",2,"Bachelor of Arts / Science, University of Southern California; Master of Science, University of Southern California"
+#453,James Packer,"Los Angeles, CA",3,
+#453,Pan Zhengmin & family,"Shenzhen, China",,Jiangsu Province Wujin Teacher School
+#453,Pankaj Patel,"Ahmedabad, India",2,"Bachelor of Arts / Science, Gujarat University; Master of Science, Gujarat University"
+#453,Isaac Perlmutter,"Palm Beach, FL",,
+#453,"Robert Rich, Jr.","Islamorada, FL",4,"Bachelor of Arts / Science, Williams College; Master of Business Administration, Simon School of Business"
+#453,Haim Saban,"Beverly Hills, CA",4,"Diploma, High School"
+#453,Steven Spielberg,"Pacific Palisades, CA",7,"Bachelor of Arts / Science, California State Long Beach"
+#453,Keiichiro Takahara & family,"Tokyo, Japan",3,
+#453,Steven Udvar-Hazy,"Beverly Hills, CA",4,"Bachelor of Arts / Science, University of California, Los Angeles"
+#453,Wang Wenxue,"Beijing, China",,
+#453,Zhang Shiping & family,"Binzhou, China",3,Anhui College of Finance and Trading
+#477,Prince Sultan bin Mohammed bin Saud Al Kabeer,"Riyadh, Saudi Arabia",,"Bachelor of Arts / Science, King Saud University"
+#477,Isak Andic & family,"Barcelona, Spain",3,
+#477,Neil Bluhm,"Chicago, IL",3,"Bachelor of Arts / Science, University of Illinois, Urbana-Champaign; Doctor of Jurisprudence, Northwestern University"
+#477,John Catsimatidis,"New York, NY",2,"Drop Out, New York University"
+#477,Giuseppe De'Longhi,"Treviso, Italy",2,"Bachelor of Arts / Economics, Università Cà Foscari di Venezia"
+#477,Abilio dos Santos Diniz,"Sao Paulo, Brazil",6,"Bachelor of Arts / Science, Fundacao Getulio Vargas"
+#477,Pansy Ho,"Hong Kong, Hong Kong",,"Bachelor of Arts / Science, University of Santa Clara"
+#477,Michel Leclercq & family,"Lille, France",4,
+#477,Elisabeth Mohn & family,"Guetersloh, Germany",3,
+#477,Pang Kang,"Foshan, China",,
+#477,Qiu Guanghe & family,"Wenzhou, China",2,
+#477,Mitchell Rales,"Potomac, MD",2,"Bachelor of Arts / Science, Miami University of Ohio"
+#477,Paolo & Gianfelice Mario Rocca,"San Isidro, Buenos Aires, Argentina",,"Master of Business Administration, Harvard University"
+#477,Lynn Schusterman,"Tulsa, OK",3,"Drop Out, University of Miami"
+#477,Friede Springer,"Berlin, Germany",,
+#477,Sun Piaoyang,"Lianyungang, China",1,"Bachelor of Arts / Science, China Pharmaceutical University; Doctorate, Nanjing University"
+#477,Jeff Sutton,"New York, NY",5,"Bachelor of Arts / Science, University of Pennsylvania Wharton School"
+#477,Russ Weiner,"Delray Beach, FL",,
+#495,Marc Benioff,"San Francisco, CA",2,"Bachelor of Arts / Science, University of Southern California"
+#495,Nathan Blecharczyk,"San Francisco, CA",,"Bachelor of Arts / Science, Harvard University"
+#495,Bubba Cathy,"Atlanta, GA",6,"Bachelor of Arts / Science, Samford University"
+#495,Dan Cathy,"Atlanta, GA",2,"Bachelor of Arts / Science, Georgia Southern University"
+#495,David Cheriton,"Palo Alto, CA",4,"Doctorate, University of Waterloo; Bachelor of Arts / Science, University of British Columbia; Master of Science, University of Waterloo"
+#495,Brian Chesky,"San Francisco, CA",,"Bachelor of Arts / Science, Rhode Island School of Design"
+#495,"Edward DeBartolo, Jr.","Tampa, FL",3,"Bachelor of Arts / Science, Notre Dame University"
+#495,John Gandel,"Melbourne, Australia",4,"Doctorate, Monash University"
+#495,Rosa Anna Magno Garavoglia & family,"Milan, Italy",3,
+#495,Joe Gebbia,"San Francisco, CA",,"Bachelor of Arts / Science, Rhode Island School of Design"
+#495,Tom Gores,"Beverly Hills, CA",3,"Bachelor of Arts / Science, Michigan State University"
+#495,Jeff Greene,"Palm Beach, FL",3,"Bachelor of Arts / Science, Johns Hopkins University; Master of Business Administration, Harvard University"
+#495,Jiang Bin,"Weifang, China",1,"Bachelor of Arts / Science, Beijing University of Aeronautics and Astronautics; Master of Business Administration, Tsinghua University"
+#495,H. Fisk Johnson,"Racine, WI",1,"Bachelor of Arts / Science, Cornell University; Doctorate, Cornell University; Master of Science, Cornell University; Master of Business Administration, Samuel Curtis Johnson Graduate School of Management"
+#495,Imogene Powers Johnson,"Racine, WI",4,"Bachelor of Arts / Science, Cornell University"
+#495,S. Curtis Johnson,"Racine, WI",4,"Bachelor of Arts / Science, Cornell University; Master of Business Administration, Kellogg School of Management"
+#495,Helen Johnson-Leipold,"Racine, WI",5,"Bachelor of Arts / Science, Cornell University"
+#495,Winnie Johnson-Marquart,"Virginia Beach, VA",4,"Bachelor of Arts / Science, Cornell University"
+#495,Erich Kellerhals,"Ingolstadt, Germany",1,
+#495,Ma Jianrong & family,"Ningbo, China",,
+#495,Bernard Marcus,"Atlanta, GA",3,"Bachelor of Arts / Science, Rutgers University"
+#495,Clayton Mathile,"Brookville, OH",5,"Bachelor of Arts / Science, Ohio Northern University"
+#495,Robert McNair,"Houston, TX",4,"Bachelor of Arts / Science, University of South Carolina"
+#495,Alain Merieux & family,"Lyon, France",3,
+#495,Jorge Perez,"Miami, FL",4,"Bachelor of Arts / Science, CW Post College; Master of Science, University of Michigan"
+#495,Qi Shi & family,"Shanghai, China",,"EMBA, Fudan University; Bachelor of Arts / Science, Shanghai Jiaotong University"
+#495,Teddy Sagi,"Tel Aviv, Israel",3,
+#495,Joan Tisch,"New York, NY",3,"Bachelor of Arts / Science, University of Michigan"
+#495,Martin Viessmann & family,"Allendorf, Germany",2,"Diploma, University of Erlangen"
+#495,Andreas von Bechtolsheim & family,"Palo Alto, CA",,"Master of Science, Carnegie Mellon University"
+#495,Zhang Guiping & family,"Nanjing, China",1,"Bachelor of Arts / Science, South East University"
+#495,Zhu Gongshan,Hong Kong,2,
+#527,"Austen Cargill, II.","Livingston, MT",2,"Bachelor of Arts / Science, University of Minnesota; Doctorate, Oregon State University; Master of Science, University of Minnesota"
+#527,"James Cargill, II.","Birchwood, WI",2,
+#527,Leon G. Cooperman,"Short Hills, NJ",2,"Bachelor of Arts / Science, Hunter College; Master of Business Administration, Columbia Business School"
+#527,Mark Cuban,"Dallas, TX",3,"Bachelor of Arts / Science, Indiana University"
+#527,Bernard Ecclestone & family,"London, United Kingdom",2,
+#527,Zarakh Iliev,"Moscow, Russia",2,
+#527,Bachtiar Karim,"Medan, Indonesia",,
+#527,Daryl Katz,"Edmonton, Canada",2,"Bachelor of Arts / Science, University of Alberta; Doctor of Jurisprudence, University of Alberta"
+#527,Li Hejun,"Beijing, China",1,
+#527,Marianne Liebmann,"Bozeman, MT",,"Bachelor of Arts / Science, Montana State University"
+#527,God Nisanov,"Moscow, Russia",3,"Diploma, Baku Institute of Law"
+#527,Kevin Plank,"Lutherville-Timonium, MD",,"Master of Business Administration, Robert H. Smith School of Business; Bachelor of Arts / Science, University of Maryland"
+#527,Anthony Pritzker,"Los Angeles, CA",6,"Bachelor of Arts / Science, Dartmouth College; Master of Business Administration, Booth School of Business"
+#527,Jay Robert (J.B.) Pritzker,"Chicago, IL",2,"Bachelor of Arts / Science, Duke University; Doctor of Jurisprudence, Northwestern University"
+#527,Renzo Rosso,"Bassano del Grappa, Italy",7,"Drop Out, Universita di Padua"
+#527,Hussain Sajwani,"Dubai, United Arab Emirates",4,"Bachelor of Arts / Science, University of Washington"
+#527,Thomas Schmidheiny,"Jona, Switzerland",4,"Bachelor of Arts / Science, Zurich Polytechnic; Doctorate, Tufts University"
+#527,Shaul Shani,"Petah Tikva, Israel",,
+#527,Andreas Struengmann,"Tegernsee, Germany",2,"Medical Doctor, University at Buffalo"
+#527,Thomas Struengmann,"Tegernsee, Germany",4,"Master of Business Administration, University of Augsburg; Master of Business Administration, University of Augsburg"
+#527,Wu Yajun & family,"Beijing, China",,Northwestern Polytechnical University
+#527,Yang Kai,"Shenyang, China",,
+#549,Abdulla Al Futtaim,"Dubai, United Arab Emirates",,
+#549,Kapil & Rahul Bhatia,"Delhi, India",,"Bachelor of Science in Engineering, University of Waterloo"
+#549,Pollyanna Chu,"Hong Kong, China",1,"Bachelor of Arts / Science, Golden Gate University"
+#549,Ken Fisher,"Camas, WA",3,"Bachelor of Arts / Science, Humboldt State University"
+#549,Jaime Gilinski Bacal,"London, United Kingdom",4,"Master of Business Administration, Harvard Business School"
+#549,Andreas Halvorsen,"Darien, CT",3,"Master of Business Administration, Stanford Graduate School of Business; Bachelor of Arts / Science, Williams College"
+#549,Indu Jain,"Delhi, India",2,
+#549,Samvel Karapetyan,"Moscow, Russia",3,"Bachelor of Arts / Science, Yerevan Polytechnic Institute"
+#549,Barry Lam,"Taipei, Taiwan",2,"Bachelor of Arts / Science, National Taiwan University"
+#549,Lars Larsen,"Silkeborg, Denmark",2,
+#549,Samuel Tak Lee,"Hong Kong, Hong Kong",7,"Bachelor of Arts / Science, Massachusetts Institute of Technology; Master of Business Administration, Harvard Business School"
+#549,John Overdeck,"Millburn, NJ",3,"Bachelor of Arts / Science, Stanford University"
+#549,Issad Rebrab & family,"Algiers, Algeria",5,
+#549,J. Christopher Reyes,"Hobe Sound, FL",4,"Bachelor of Arts / Science, University of Maryland"
+#549,Jude Reyes,"Palm Beach, FL",3,"Bachelor of Arts / Science, Wofford College"
+#549,David Siegel,"Scarsdale, NY",,"Bachelor of Arts / Science, Princeton University; Ph.D, Massachusetts Institute of Technology"
+#549,Frederick Smith,"Memphis, TN",10,"Bachelor of Arts / Science, Yale University"
+#549,Donald Sterling,"Beverly Hills, CA",3,"Doctor of Jurisprudence, Southwestern Law School; Bachelor of Arts / Science, California State Los Angeles"
+#549,Juan-Miguel Villar Mir & family,"Madrid, Spain",3,
+#549,Roger Wang,"Nanjing, China",2,"Bachelor of Arts / Science, Chinese Cultural University; Master of Business Administration, Southeastern Louisiana University"
+#569,Stephen Bisciotti,"Millersville, MD",2,"Bachelor of Arts / Science, Salisbury State University"
+#569,Chey Tae-Won,"Seoul, South Korea",3,"Bachelor of Arts / Science, Korea University; Master of Science, University of Chicago"
+#569,Chung Eui-Sun,"Seoul, South Korea",2,"Bachelor of Arts / Science, Korea University; Master of Business Administration, University of San Francisco"
+#569,David Consunji,"Manila, Philippines",8,
+#569,Jack Dangermond,"Redlands, CA",,"Bachelor of Arts / Science, California State Polytechnical University; Master of Science, University of Minnesota; Master of Science, Harvard University"
+#569,Rafael Del Pino y Calvo-Sotelo,"Madrid, Spain",5,"Master of Business Administration, Sloan School of Management; Bachelor of Arts / Science, Universidad Politecnica de Madrid"
+#569,Dagmar Dolby & family,"San Francisco, CA",2,"Bachelor of Arts / Science, Heidelberg University"
+#569,Bennett Dorrance,"Paradise Valley, AZ",2,"Bachelor of Arts / Science, University of Arizona"
+#569,Isabel dos Santos,"Luanda, Angola",3,"Bachelor of Arts / Science, King's College"
+#569,Tilman Fertitta,"Houston, TX",4,"Drop Out, Texas Tech University; Drop Out, University of Houston"
+#569,Bernard Fraisse,"Paris, France",,
+#569,"Amos Hostetter, Jr.","Boston, MA",3,"Bachelor of Arts / Science, Amherst College; Master of Business Administration, Harvard University"
+#569,Liu Yiqian,"Shanghai, China",,
+#569,Luo Jye & family,"Ta-Tsun, Taiwan",4,
+#569,Sudhir & Samir Mehta,"Ahmedabad, India",,"Bachelor of Arts / Science, Gujarat University"
+#569,Jorge Moll Filho,"Rio de Janeiro, Brazil",5,"Masters of Public Health, Universidade Federal do Rio de Janeiro"
+#569,Erwin Franz Mueller,"Ulm, Germany",1,
+#569,Michael Platt,"Geneva, Switzerland",,"Bachelor of Arts / Science, London School of Economics; Bachelor of Arts / Science, London School of Economics"
+#569,"David Rockefeller, Sr.","Sleepy Hollow, NY",6,"Bachelor of Arts / Science, Harvard University; Doctorate, University of Chicago"
+#569,Chanchai Ruayrungruang,"Beijing, China",,
+#569,Naguib Sawiris,"Cairo, Egypt",4,"Bachelor of Arts / Science, Swiss Federal Polytechnical Institute; Master of Science, Swiss Federal Polytechnical Institute"
+#569,Stephan Schmidheiny,"Hurden, Switzerland",2,"Doctorate, University of Zurich"
+#569,Andrew Tan,"Manila, Philippines",4,"Bachelor of Arts / Science, University of the East"
+#569,Tony Tan Caktiong & family,"Manila, Philippines",3,
+#569,Oprah Winfrey,"Montecito, CA",,"Bachelor of Arts / Science, Tennessee State University"
+#569,Ye Chenghai & family,"Hong Kong, Hong Kong",2,"Bachelor of Arts / Science, Renmin University of China"
+#595,Kunio Busujima & family,"Kiryu City, Japan",4,"Bachelor of Arts / Science, Kiryu Commerce & Technical School"
+#595,John Paul DeJoria,"Austin, TX",4,"Diploma, High School"
+#595,Lindsay Fox,"Melbourne, Australia",5,
+#595,Peter Hargreaves,"Bristol, United Kingdom",2,
+#595,Erivan Haub & family,"Mulheim an der Ruhr, Germany",3,"Bachelor of Arts / Science, University of Hamburg"
+#595,Huang Rulun,"Beijing, China",2,
+#595,Dmitry Kamenshchik,"Moscow, Russia",,"Bachelor of Arts / Science, Moscow State University"
+#595,Guenther Lehmann,"Karlsruhe, Germany",,
+#595,Lu Xiangyang,"Guangzhou, China",,
+#595,Alexander Nesis,"Moscow, Russia",4,"Bachelor of Arts / Science, Leningrad Technological Institute"
+#595,Ravi Pillai,"Dubai, United Arab Emirates",2,
+#595,"Wilbur Ross, Jr.","Palm Beach, FL",2,"Bachelor of Arts / Science, Yale University; Master of Business Administration, Harvard University"
+#595,Dirk Rossmann & family,"Lower-Saxony, Germany",2,
+#595,Howard Schultz,"Seattle, WA",2,"Bachelor of Arts / Science, Northern Michigan University"
+#595,Alexander Svetakov,"Moscow, Russia",4,"Bachelor of Science in Engineering, Moscow Institute of Electronic Technology"
+#595,Murat Ulker,"Istanbul, Turkey",3,"Bachelor of Arts / Science, Bogazici University"
+#595,Simon Xie,"Hangzhou, China",,
+#612,Robert Bass,"Fort Worth, TX",2,"Bachelor of Arts / Science, Yale University; Master of Business Administration, Stanford University"
+#612,Carlo Benetton,"Treviso, Italy",4,
+#612,Gilberto Benetton,"Treviso, Italy",2,
+#612,Giuliana Benetton,"Treviso, Italy",4,
+#612,Luciano Benetton,"Treviso, Italy",4,
+#612,Otto Philipp Braun,"Melsungen, Germany",,
+#612,Otto Happel,"Luzerne, Switzerland",6,
+#612,Daniela Herz,"Hamburg, Germany",,
+#612,Guenter Herz & Family,"Hamburg, Germany",2,
+#612,Peter Kellogg,"Short Hills, NJ",3,"Drop Out, Babson College"
+#612,Heikki Kyostila,"Helsinki, Finland",,
+#612,Lee Jay-Hyun,"Seoul, South Korea",2,"Bachelor of Arts / Science, Korea University"
+#612,Yuri Milner,"Moscow, Russia",2,"Bachelor of Arts / Science, Moscow State University; Master of Business Administration, Wharton School"
+#612,Fernando Roberto Moreira Salles,"Sao Paulo, Brazil",2,"Bachelor of Arts / Science, Fundacao Getulio Vargas"
+#612,Joao Moreira Salles,"Rio de Janeiro, Brazil",1,
+#612,Pedro Moreira Salles,"Sao Paulo, Brazil",2,"Bachelor of Arts / Science, University of California, Los Angeles"
+#612,Walther Moreira Salles Junior,"Rio de Janeiro, Brazil",1,"Bachelor of Arts / Science, University of Southern California"
+#612,Prasert Prasarttong-Osoth,"Bangkok, Thailand",5,
+#612,"Bernard Saul, II.","Chevy Chase, MD",5,"Bachelor of Arts / Science, Villanova University; LLB, University of Virginia"
+#612,Alexandra Schorghuber,"Munich, Germany",3,
+#612,Herbert Simon,"Indianapolis, IN",8,"Bachelor of Arts / Science, City College of New York"
+#612,Kushal Pal Singh,"Delhi, India",3,"Bachelor of Arts / Science, Delhi University"
+#612,Vichai Srivaddhanaprabha,"Bangkok, Thailand",4,
+#612,Hans Strothoff,"Dreieich, Germany",1,
+#612,Romesh T. Wadhwani,"Palo Alto, CA",1,"Doctorate, Carnegie Mellon University; Bachelor of Arts / Science, Indian Institute of Technology, Bombay; Master of Science, Carnegie Mellon University"
+#612,Xue Xiangdong & family,"Beijing, China",,"Bachelor of Arts / Science, Hunan University"
+#638,Riley Bechtel,"San Francisco, CA",3,"Bachelor of Arts / Science, University of Calif Davis; Master of Business Administration, Stanford University; Doctor of Jurisprudence, Stanford University"
+#638,"Stephen Bechtel, Jr.","San Francisco, CA",5,"Bachelor of Arts / Science, Purdue University; Master of Business Administration, Stanford University"
+#638,Jean-Michel Besnier,"Laval, France",,
+#638,Marie Besnier Beauvalot,"Laval, France",,
+#638,Alain Bouchard,"Montreal, Canada",4,
+#638,Cai Dongqing,"Guangzhou, China",,"EMBA, Sun Yat-sen University"
+#638,Jean Pierre Cayard,"Paris, France",1,
+#638,Richard Chandler,"Singapore, Singapore",,
+#638,Chen Fashu,"Fuzhou, China",4,China Europe International Business School
+#638,Andrew & Peggy Cherng,"Las Vegas, NV",,"Master of Arts, University of Missouri; Ph.D, University of Missouri"
+#638,Silas Chou,"Hong Kong, Hong Kong",2,
+#638,"John Dorrance, III.","Dublin, Ireland",2,
+#638,Robert Duggan,"Palo Alto, CA",8,"Drop Out, University of California, Santa Barbara; Drop Out, University of California, Los Angeles"
+#638,Hortensia Herrero,"Valencia, Spain",4,
+#638,Heidi Horten,"Vienna, Austria",,
+#638,Kwek Leng Beng,"Singapore, Singapore",2,"LLB, University of London"
+#638,Kenneth Langone,"Sands Point, NY",3,"Bachelor of Arts / Science, Bucknell University; Master of Business Administration, Leonard N. Stern School of Business"
+#638,James Leprino,"Indian Hills, CO",2,
+#638,Sergio Mantegazza,"Lugano, Switzerland",2,
+#638,John Middleton,"Bryn Mawr, PA",2,"Bachelor of Arts / Science, Amherst College; Master of Business Administration, Harvard University"
+#638,Robert Miller,"Montreal, Canada",2,"Bachelor of Arts / Science, Rider University"
+#638,David Murdock,"Los Angeles, CA",3,"Drop Out, High School"
+#638,Thomas Pritzker,"Chicago, IL",3,"Bachelor of Arts / Science, Claremont McKenna College; Master of Business Administration, University of Chicago; Doctor of Jurisprudence, University of Chicago"
+#638,Peter Thiel,"San Francisco, CA",,"Bachelor of Arts / Science, Stanford University; Doctor of Jurisprudence, Stanford University"
+#638,Yitzhak Tshuva,"Netanya, Israel",5,
+#638,Wang Yusuo & family,"Langfang, China",,"Doctorate, Tianjin University; Bachelor of Arts / Science, People's University of China"
+#638,John Whittaker,"Isle of Man, United Kingdom",4,"Diploma, High School"
+#638,Yeung Kin-man,"Hong Kong, Hong Kong",,
+#666,Yvonne Bauer & family,"Hamburg, Germany",,
+#666,Arthur Blank,"Atlanta, GA",6,"Bachelor of Arts / Science, Babson College"
+#666,Antonio Del Valle Ruiz & family,"Mexico City, Mexico",5,
+#666,Walter Faria,"Rio de Janeiro, Brazil",1,
+#666,Doris Fisher,"San Francisco, CA",3,"Bachelor of Arts / Science, Stanford University"
+#666,H. Wayne Huizenga,"Fort Lauderdale, FL",4,"Drop Out, Calvin College"
+#666,Ke Zunhong & family,"Chengdu, China",,
+#666,Lam Wai Ying,"Hong Kong, Hong Kong",,
+#666,Li Shuirong,"Hangzhou, China",1,
+#666,Liu Zhongtian & family,"Liaoyang, China",,"Diploma, Liaoning Radio and TV University"
+#666,Daniel Loeb,"New York, NY",,"Bachelor of Arts / Science, Columbia University"
+#666,Ronald McAulay,"Hong Kong, Hong Kong",2,"Master of Arts, University of Glasgow"
+#666,Michael Moritz,"San Francisco, CA",2,"Bachelor of Arts / Science, Christ Church, Oxford University; Master of Business Administration, Wharton School"
+#666,"Carolus Nolet, Sr.","Schiedam, Netherlands",2,
+#666,Daniel Och,"Scarsdale, NY",3,"Bachelor of Arts / Science, University of Pennsylvania Wharton School"
+#666,Husnu Ozyegin,"Istanbul, Turkey",2,"Bachelor of Arts / Science, Oregon State University; Master of Business Administration, Harvard University"
+#666,A. Jerrold Perenchio,"Bel Air, CA",3,"Bachelor of Arts / Science, University of California, Los Angeles"
+#666,Krit Ratanarak,"Bangkok, Thailand",1,
+#666,Henry Samueli,"Newport Beach, CA",3,"Bachelor of Arts / Science, University of California, Los Angeles; Doctorate, University of California, Los Angeles; Master of Science, University of California, Los Angeles"
+#666,Hanni Toosbuy Kasprzak,"Haderslev, Denmark",2,
+#666,Samuel Yin,"Taipei, Taiwan",,
+#666,Zhang Xin & family,"Beijing, China",2,"Master of Arts, Cambridge University; Bachelor of Arts / Science, University of Sussex"
+#688,Anil Ambani,"Mumbai, India",2,"Bachelor of Arts / Science, University of Bombay; Master of Business Administration, Wharton School"
+#688,John Arnold,"Houston, TX",2,"Bachelor of Arts / Science, Vanderbilt University"
+#688,Andrej Babis,"Prague, Czech Republic",4,
+#688,David Bonderman,"Fort Worth, TX",5,"Bachelor of Arts / Science, University of Washington; Doctor of Jurisprudence, Harvard University"
+#688,Jose Luis Cutrale,"Sao Paulo, Brazil",2,
+#688,Bharat & Neerja Sethi Desai,"Fisher Island, FL",2,"Bachelor of Arts / Science, Indian Institute of Technology, Bombay; Master of Business Administration, Stephen M. Ross School of Business"
+#688,Kuldip Singh & Gurbachan Singh Dhingra,"Delhi, India",,"Bachelor of Arts / Science, Delhi University"
+#688,Philippe Foriel-Destezet,"London, United Kingdom",4,"Master of Business Administration, HEC Paris"
+#688,Tom Golisano,"Naples, FL",2,"Associate in Arts / Science, SUNY Tech Alfred"
+#688,Henry Hillman,"Pittsburgh, PA",4,"Bachelor of Arts / Science, Princeton University"
+#688,Johan Johannson,"Oslo, Norway",3,
+#688,Viatcheslav Kantor,"London, United Kingdom",5,"Ph.D, Moscow Aviation University"
+#688,Louis Le Duff,"Paris, France",2,
+#688,Li Zhongchu,"Beijing, China",,"Bachelor of Arts / Science, Wuhan University"
+#688,"Stephen Mandel, Jr.","Greenwich, CT",3,"Bachelor of Arts / Science, Dartmouth College; Master of Business Administration, Harvard University; Diploma, Phillips Academy Exeter"
+#688,Mohamed Mansour,"Cairo, Egypt",2,"Master of Business Administration, Auburn University"
+#688,Najib Mikati,"Beirut, Lebanon",3,"Bachelor of Arts / Science, American University Beirut Lebanon; Master of Business Administration, American University Beirut Lebanon"
+#688,Taha Mikati,"Beirut, Lebanon",3,"Bachelor of Arts / Science, American University Beirut Lebanon"
+#688,Michael Milken,"Los Angeles, CA",3,"Bachelor of Arts / Science, University of California Berkeley; Master of Business Administration, Wharton School"
+#688,Yoshiko Mori,"Tokyo, Japan",2,
+#688,Philip Niarchos,"Paris, France",4,
+#688,Sebastian Pinera,"Santiago, Chile",4,"Doctorate, Harvard University"
+#688,P.V. Ramprasad Reddy,"Hyderabad, India",2,
+#688,Gary Rollins,"Atlanta, GA",4,
+#688,Randall Rollins,"Atlanta, GA",5,
+#688,Dieter Schnabel,"Hamburg, Germany",3,
+#688,Robert Smith,"Austin, TX",,"Bachelor of Arts / Science, Cornell University; Master of Business Administration, Columbia University"
+#688,Zygmunt Solorz-Zak,"Warsaw, Poland",3,
+#688,Wang Xing,"Beijing, China",,"Graduate, Tsinghua University"
+#688,"William Wrigley, Jr.","North Palm Beach, FL",4,"Bachelor of Arts / Science, Duke University"
+#688,Yu Yong,"Shanghai, China",,
+#688,Eddie & Sol Zakay,"London, United Kingdom",,
+#688,Christoph Zeller,"Vaduz, Liechtenstein",,
+#688,Mortimer Zuckerman,"New York, NY",2,"Bachelor of Arts / Science, McGill University; LLM, Harvard University; Master of Business Administration, Wharton School"
+#722,Rahul Bajaj,"Pune, India",3,"Master of Business Administration, Harvard University"
+#722,George Bishop,"The Woodlands, TX",,
+#722,Jim Breyer,"Woodside, CA",3,"Bachelor of Arts / Science, Stanford University; Master of Business Administration, Harvard Business School"
+#722,Bernardo Caprotti,"Milan, Italy",3,
+#722,Tatiana Casiraghi,"Monaco, Monaco",1,
+#722,John Caudwell,"Stoke-on-Trent, United Kingdom",5,
+#722,Jason Chang,"Taipei, Taiwan",3,"Bachelor of Arts / Science, National Taiwan University"
+#722,"Chase Coleman, III.","New York, NY",,"Bachelor of Arts / Science, Williams College"
+#722,Judy Faulkner,"Madison, WI",3,"Bachelor of Arts / Science, Dickinson College; Master of Science, University of Wisconsin"
+#722,Bernd Freier,"Rottendorf, Germany",2,
+#722,Reid Hoffman,"Palo Alto, CA",,"Bachelor of Arts / Science, Stanford University; Master of Science, Oxford University"
+#722,Huang Shih Tsai,"Shenzhen, China",2,
+#722,Igor Kesaev,"Moscow, Russia",3,"Bachelor of Arts / Science, Moscow Institute of International Relations"
+#722,Andrei Kozitsyn,"Verkhniaya Pyshma, Russia",1,"Bachelor of Science in Engineering, Ural Polytechnic Institute"
+#722,Raj Kumar & Kishin RK,"Singapore, Singapore",1,
+#722,Marc Ladreit de Lacharriere,"Paris, France",4,
+#722,Manuel Lao Hernandez,"Matadepera, Spain",3,
+#722,Patrick Lee,"Hong Kong, Hong Kong",5,
+#722,Douglas Leone,"Atherton, CA",4,"Bachelor of Arts / Science, Cornell University; Master of Science, Columbia University; Master of Business Administration, Sloan School of Management"
+#722,Lin Xiucheng & family,"Xiamen, China",4,"Bachelor of Arts / Science, Xiamen University"
+#722,George Lindemann & family,"Palm Beach, FL",3,"Bachelor of Arts / Science, University of Pennsylvania Wharton School"
+#722,Friedhelm Loh,"Haiger, Germany",3,
+#722,Alexander Mamut,"Moscow, Russia",5,"LLB, Moscow State University"
+#722,Hans Melchers,"Vorden, Netherlands",2,
+#722,C. Dean Metropoulos,"Palm Beach, FL",2,"Bachelor of Arts / Science, Babson College; Master of Business Administration, Babson College"
+#722,Tom Morris,"Merseyside, United Kingdom",,
+#722,Stefan Olsson,"Gothenburg, Sweden",,
+#722,Sean Parker,"New York, NY",1,"Diploma, High School"
+#722,Karl-Johan Persson,"Stockholm, Sweden",2,"Bachelor of Arts / Science, London Business School"
+#722,Tom Persson,"Stockholm, Sweden",,
+#722,"Enrique Razon, Jr.","Manila, Philippines",2,
+#722,Phillip Ruffin,"Las Vegas, NV",5,"Diploma, High School"
+#722,Ferit Faik Sahenk,"Istanbul, Turkey",1,"Bachelor of Arts / Science, Boston College"
+#722,"Julio Mario Santo Domingo, III.","New York, NY",,"Bachelor of Arts / Science, Boston University"
+#722,Michael & Reiner Schmidt-Ruthenbeck,"Duisburg, Germany",,
+#722,Richard Schulze,"Bonita Springs, FL",10,"Diploma, High School"
+#722,Charlotte Soderstrom,"Stockholm, Sweden",3,
+#722,"Clemmie Spangler, Jr.","Charlotte, NC",2,"Bachelor of Arts / Science, University of North Carolina; Master of Business Administration, Harvard University"
+#722,Warren Stephens,"Little Rock, AR",3,"Bachelor of Arts / Science, Washington & Lee University; Master of Business Administration, Wake Forest University School of Business"
+#722,Lawrence Stroll,"Geneva, Switzerland",2,
+#722,Daniel Tsai,"Taipei, Taiwan",4,"LLM, Georgetown University; LLB, National Taiwan University"
+#722,Richard Tsai,"Taipei, Taiwan",2,"Master of Business Administration, Leonard N. Stern School of Business; Graduate, National Taiwan University"
+#722,Wang Changtian,"Beijing, China",,"Bachelor of Arts / Science, Fudan University"
+#722,Ty Warner,"Oak Brook, IL",,"Drop Out, Kalamazoo College"
+#722,Dean White,"Crown Point, IN",4,"Bachelor of Arts / Science, United States Merchant Marine Academy"
+#722,Steve Wynn,"Las Vegas, NV",2,"Bachelor of Arts / Science, University of Pennsylvania"
+#722,Vladimir Yevtushenkov,"Moscow, Russia",2,"Bachelor of Arts / Science, Mendeleyev Chemical Engin; Master of Science, Moscow State University"
+#722,Michael Ying,"Hong Kong, Hong Kong",3,
+#722,Zheng Yuewen & family,"Beijing, China",,
+#771,Rinat Akhmetov,"Donetsk, Ukraine",2,"Bachelor of Arts / Science, Donetsk National University"
+#771,Mohammed Al Issa & family,"Riyadh, Saudi Arabia",,
+#771,Anthony Bamford & family,"Gloucestershire, United Kingdom",3,"Bachelor of Arts / Science, Grenoble University"
+#771,Carl Bennet,"Gothenberg, Sweden",1,"Master of Business Administration, University of Gothenburg"
+#771,Patrizio Bertelli,"Milan, Italy",2,"Master of Business Administration, University of Florence"
+#771,Charles Bronfman,"Montreal, Canada",2,"Bachelor of Arts / Science, McGill University"
+#771,Eva Maria Bucher-Haefner,"Zurich, Switzerland",2,
+#771,"William Conway, Jr.","McLean, VA",1,"Bachelor of Arts / Science, Dartmouth College; Master of Business Administration, Booth School of Business"
+#771,Daniel D'Aniello,"Vienna, VA",2,"Bachelor of Arts / Science, Syracuse University; Master of Business Administration, Harvard University"
+#771,Edgar de Picciotto & family,,4,
+#771,Barry Diller,"New York, NY",,"Drop Out, University of California, Los Angeles"
+#771,Fong Yun Wah,"Hong Kong, Hong Kong",8,
+#771,Don Hankey,"Malibu, CA",4,"Bachelor of Arts / Science, University of Southern California"
+#771,Jimmy Haslam,"Knoxville, TN",3,"Bachelor of Arts / Science, University of Tennessee Knoxville"
+#771,Huang Wei,"Hangzhou, China",,Wenzhou Normal College
+#771,James Irsay,"Carmel, IN",3,"Bachelor of Arts / Science, Southern Methodist University"
+#771,Kim Jung-Ju,"Seoul, South Korea",2,"Bachelor of Arts / Science, Seoul National University; Master of Science, Korea Advanced Institute of Science and Technology; Doctorate, Korea Advanced Institute of Science and Technology"
+#771,Kurt Krieger,"Berlin, Germany",3,
+#771,Herman Langness,,,
+#771,Mangal Prabhat Lodha,"Mumbai, India",2,
+#771,Bernardo Matte,"Santiago, Chile",3,"Bachelor of Arts / Science, University of Chile"
+#771,Eliodoro Matte,"Santiago, Chile",3,"Bachelor of Arts / Science, Pontificia Universidad Catolica de Chile; Master of Business Administration, Booth School of Business"
+#771,Patricia Matte,"Santiago, Chile",4,"Bachelor of Arts / Science, Pontificia Universidad Catolica de Chile"
+#771,Vadim Moshkovich,"Moscow, Russia",3,"Bachelor of Arts / Science, Moscow Institute of Radioengineering, Electronics and Automation"
+#771,Alexander Ponomarenko,"Moscow, Russia",3,"Bachelor of Arts / Science, Simferopol State University; Master of Science, Russian State Academy of Management"
+#771,Miuccia Prada,"Rome, Italy",2,"Doctorate, University of Milan; Doctorate in Pedagogical Sciences, University of Milan"
+#771,John Pritzker,"San Francisco, CA",3,"Bachelor of Arts / Science, Menlo College"
+#771,Penny Pritzker,"Chicago, IL",2,"Bachelor of Arts / Science, Harvard University; Doctor of Jurisprudence, Stanford University; Master of Business Administration, Stanford Graduate School of Business"
+#771,Michael Rubin,"Bryn Mawr, PA",1,"Drop Out, Villanova University"
+#771,Patrick Ryan,"Winnetka, IL",3,"Bachelor of Arts / Science, Northwestern University"
+#771,Alexander Skorobogatko,"Moscow, Russia",3,"Master of Science, Plekhanov Russian Academy"
+#771,Helmut Sohmen,"Hong Kong, Hong Kong",3,"Bachelor of Arts / Science, University of Vienna; Doctor of Jurisprudence, Southern Methodist University"
+#771,Song Zuowen,"Longkou, China",2,
+#771,Pat Stryker,"Fort Collins, CO",3,"Drop Out, University of Northern Colorado"
+#771,Tang Yiu,"Hong Kong, Hong Kong",2,
+#771,Tse Ping & family,"Hong Kong, China",,
+#771,Bulat Utemuratov,"Astana, Kazakhstan",1,
+#771,Yeoh Tiong Lay,"Kuala Lumpur, Malaysia",7,"Doctorate, Heriot-Watt University"
+#771,Zhou Yahui & family,"Beijing, China",,
+#810,Saif Al Ghurair & family,"Dubai, United Arab Emirates",6,
+#810,John Arrillaga,"Portola Valley, CA",2,"Bachelor of Arts / Science, Stanford University"
+#810,Semahat Sevim Arsel,"Istanbul, Turkey",,
+#810,Tom Benson & family,"New Orleans, LA",3,"Diploma, High School"
+#810,Jurgen Blickle,"Bruchsal, Germany",,
+#810,Hubert Burda,"Munich, Germany",2,"Bachelor of Arts / Science, Ludwig Maxmilian University"
+#810,Smita Crishna-Godrej,"Mumbai, India",2,
+#810,Ashwin Dani,"Mumbai, India",3,"Bachelor of Arts / Science, Bombay University; Master of Science, University of Akron"
+#810,Eduardo Eurnekian,"Buenos Aires, Argentina",,
+#810,John Fisher,"San Francisco, CA",4,"Bachelor of Arts / Science, Princeton University; Master of Business Administration, Stanford Graduate School of Business"
+#810,Fu Liquan & family,"Hangzhou, China",1,"Bachelor of Arts / Science, Zhejiang Shuren University; EMBA, Zhejiang University"
+#810,Adi Godrej,"Mumbai, India",3,"Bachelor of Arts / Science, Massachusetts Institute of Technology; Master of Science, Massachusetts Institute of Technology"
+#810,Jamshyd Godrej,"Mumbai, India",2,"Bachelor of Science in Engineering, Illinois Institute of Technology"
+#810,Nadir Godrej,"Mumbai, India",3,"Bachelor of Science in Engineering, Massachusetts Institute of Technology; Master of Science in Engineering, Stanford University; Master of Business Administration, Harvard Business School"
+#810,Noam Gottesman,"New York, NY",4,"Bachelor of Arts / Science, Columbia University"
+#810,Martin Haefner,"Zurich, Switzerland",,
+#810,Caroline Hagen Kjos,"Wollerau, Switzerland",2,
+#810,Bahaa Hariri,"Geneva, Switzerland",,"Bachelor of Arts / Science, Boston University"
+#810,Joshua Harris,"New York, NY",5,"Bachelor of Arts / Science, University of Pennsylvania Wharton School; Master of Business Administration, Harvard University"
+#810,B. Wayne Hughes,"Lexington, KY",3,"Bachelor of Arts / Science, University of Southern California"
+#810,Min Kao & family,"Leawood, KS",2,"Bachelor of Arts / Science, National Taiwan University; Doctorate, University of Tennessee Knoxville; Master of Science, University of Tennessee Knoxville"
+#810,Brad Kelley,"Franklin, TN",3,"Diploma, High School"
+#810,Alicia Koplowitz,"Madrid, Spain",3,
+#810,Kuok Khoon Hong,"Singapore, Singapore",4,
+#810,Edward Lampert,"Miami Beach, FL",3,"Bachelor of Arts / Science, Yale University"
+#810,Lee Joong-Keun,"Seoul, South Korea",4,"Doctorate, Korea University"
+#810,Lim Sung-Ki,"Seoul, South Korea",,
+#810,Kalanithi Maran,"Chennai, India",1,"Master of Business Administration, University of Scranton"
+#810,Robert Miller,"Hong Kong, Hong Kong",3,"Bachelor of Arts / Science, Cornell University"
+#810,Shigenobu Nagamori,"Kyoto, Japan",2,
+#810,Rishad Naoroji,"Mumbai, India",,"Associate in Arts / Science, Bombay University"
+#810,Gabe Newell,"Seattle, WA",2,"Drop Out, Harvard University"
+#810,Jay Paul,"San Francisco, CA",,
+#810,Richard Peery,"Palo Alto, CA",4,"Bachelor of Arts / Science, Brigham Young University"
+#810,Marc Rowan,"New York, NY",,"Bachelor of Arts / Science, University of Pennsylvania; Master of Business Administration, Wharton School"
+#810,David Rubenstein,"Bethesda, MD",3,"Bachelor of Arts / Science, Duke University; Doctor of Jurisprudence, University of Chicago"
+#810,Alvaro Saieh Bendeck,"Santiago, Chile",5,
+#810,Shen Guojun,"Beijing, China",,"Master of Arts, Zhongnan University of Economics and Law"
+#810,Gil Shwed,"Tel Aviv, Israel",,
+#810,Thomas Siebel,"Woodside, CA",4,"Bachelor of Arts / Science, University of Illinois, Urbana-Champaign; Master of Science, University of Illinois, Urbana-Champaign; Master of Business Administration, University of Illinois, Urbana-Champaign College of Business"
+#810,Paul Singer,"New York, NY",,"Doctor of Jurisprudence, Harvard University; Bachelor of Arts / Science, University of Rochester"
+#810,Ted Turner,"Atlanta, GA",5,"Bachelor of Arts / Science, Brown University"
+#810,Mark Walter,"Chicago, IL",1,"Bachelor of Arts / Science, Creighton University; Doctor of Jurisprudence, Northwestern University"
+#810,Xiao Wenge,"Beijing, China",,
+#854,S. Daniel Abraham,"Palm Beach, FL",6,"Diploma, High School"
+#854,Emilio Azcarraga Jean,"Mexico City, Mexico",1,
+#854,John Brown,"Portage, MI",2,"Bachelor of Science in Engineering, Auburn University"
+#854,Chen Bang,"Changsha, China",,
+#854,Jaran Chiaravanont,"Bangkok, Thailand",,
+#854,James Coulter,"San Francisco, CA",3,"Bachelor of Arts / Science, Dartmouth College; Master of Business Administration, Stanford University"
+#854,Oleg Deripaska,"Moscow, Russia",2,"Bachelor of Arts / Science, Moscow State University"
+#854,Francisco Ivens de Sa Dias Branco,"Fortaleza, Brazil",5,"High School Graduate, High School"
+#854,Bergit Douglas,"Frankfurt, Germany",5,
+#854,Charles Dunstone,"London, United Kingdom",,
+#854,Feng Hailiang,"Zhuji, China",2,"Master of Business Administration, Zhejiang University"
+#854,David Filo,"Palo Alto, CA",1,"Bachelor of Arts / Science, Tulane University; Master of Science, Stanford University"
+#854,Gordon Getty,"San Francisco, CA",7,"Bachelor of Arts / Science, San Francisco Conservatory of Music"
+#854,Ivan Glasenberg,"Ruschlikon, Switzerland",2,"Bachelor of Arts / Science, University of Witwatersrand; Master of Business Administration, Marshall School of Business"
+#854,Alec Gores,"Beverly Hills, CA",5,"Bachelor of Arts / Science, Western Michigan University"
+#854,Stein Erik Hagen,"Oslo, Norway",4,
+#854,Carlos Hank Rhon,"Mexico City, Mexico",3,"Bachelor of Science in Engineering, Universidad Nacional Autonoma de Mexico"
+#854,John Henry,"Boca Raton, FL",2,
+#854,Stanley Hubbard,"St. Paul, MN",5,"Bachelor of Arts / Science, University of Minnesota"
+#854,Johnelle Hunt,"Fayetteville, AR",2,"Drop Out, University of Central Arkansas"
+#854,Ji Changqun,"Nanjing, China",,
+#854,Jiang Weiping & family,"Chengdu, China",,"Bachelor of Science in Engineering, Xihua University"
+#854,Sumet Jiaravanon,"Bangkok, Thailand",,
+#854,Montri Jiaravanont,"Bangkok, Thailand",,
+#854,Aerin Lauder Zinterhofer,"New York, NY",2,
+#854,Maritsa Lazari & family,"London, United Kingdom",3,
+#854,Peter Lim,"Singapore, Singapore",2,
+#854,Igor Makarov,"Moscow, Russia",2,"Bachelor of Arts / Science, Turkmen State University"
+#854,Joe Mansueto,"Chicago, IL",3,"Bachelor of Arts / Science, University of Chicago; Master of Business Administration, Booth School of Business"
+#854,Hans Georg Naeder,"Duderstadt, Germany",2,
+#854,Maja Oeri,"Basel, Switzerland",,
+#854,Alfred Oetker,"Bielefeld, Germany",,
+#854,August Oetker,"Bielefeld, Germany",,
+#854,Carl Ferdinand Oetker,"Bielefeld, Germany",,
+#854,Christian Oetker,"Bielefeld, Germany",,
+#854,Julia Oetker,"Bielefeld, Germany",,
+#854,Richard Oetker,"Bielefeld, Germany",,
+#854,Park Hyeon-Joo,"Seoul, South Korea",3,"Bachelor of Arts / Science, Korea University"
+#854,Jean (Gigi) Pritzker,"Chicago, IL",3,"Bachelor of Arts / Science, Stanford University"
+#854,Nicolas Puech,"Martigny, Switzerland",,
+#854,Mochtar Riady & family,"Jakarta, Indonesia",6,
+#854,Rosely Schweizer,"Bielefeld, Germany",3,
+#854,Vivek Chaand Sehgal,"Delhi, India",2,"Bachelor of Arts / Science, Delhi University"
+#854,Erik Selin,"Göteborg, Sweden",,
+#854,Scott Simplot,"Boise, ID",,
+#854,Dan Snyder,"Potomac, MD",3,"Drop Out, University of Maryland"
+#854,Alexandre Soares dos Santos & family,"Lisbon, Portugal",7,
+#854,Evan Spiegel,"Los Angeles, CA",,"Bachelor of Arts / Science, Stanford University"
+#854,Sze Man Bok,"Jinjiang, China",1,
+#854,David Teoh,"Sydney, Australia",4,
+#854,Arne Wilhelmsen & family,"Oslo, Norway",3,"Bachelor of Arts / Science, Harvard University"
+#854,Chip Wilson,"Vancouver, Canada",5,"Bachelor of Arts / Science, University of Calgary"
+#906,Juan Abello,"Madrid, Spain",4,
+#906,William Ackman,"New York, NY",3,"Bachelor of Arts / Science, Harvard University; Master of Business Administration, Harvard Business School"
+#906,Faisal Bin Qassim Al Thani,"Doha, Qatar",10,
+#906,Emanuella Barilla,"Parma, Italy",,
+#906,Guido Barilla,"Parma, Italy",,
+#906,Luca Barilla,"Parma, Italy",,
+#906,Paolo Barilla,"Parma, Italy",,
+#906,Ron Baron,"New York, NY",2,"Bachelor of Arts / Science, Bucknell University"
+#906,Rainer Blickle,"Bruchsal, Germany",,
+#906,Cai Kui,"Chengdu, China",1,"Bachelor of Arts / Science, Nanjing University of Aeronautics & Astronautics"
+#906,Jose and Francisco Jose Calderon Rojas,"Monterrey, Mexico",,"Law Degree, Universidad Autonoma de Nuevo Leon"
+#906,Gustavo Cisneros & family,"La Romana, Dominican Republic",3,"Bachelor of Arts / Science, Babson College"
+#906,James Dinan,"New York, NY",3,"Bachelor of Arts / Science, University of Pennsylvania Wharton School; Master of Business Administration, Harvard University"
+#906,Murali Divi,"Hyderabad, India",2,
+#906,Ennio Doris & family,"Tombolo, Italy",2,"Diploma, High School"
+#906,Glenn Dubin,"New York, NY",3,"Bachelor of Arts / Science, SUNY Stony Brook"
+#906,Miguel Fluxa Rossello,"Esporles, Spain",,
+#906,Gerald Ford,"Dallas, TX",6,"Bachelor of Arts / Science, Southern Methodist University; Doctor of Jurisprudence, Southern Methodist University"
+#906,James France,"Daytona Beach, FL",3,"Bachelor of Arts / Science, Florida Southern College"
+#906,Bill Gross,"Laguna Beach, CA",3,"Bachelor of Arts / Science, Duke University; Master of Business Administration, Anderson School of Management"
+#906,Huang Wenji & family,"Jinjiang, China",,
+#906,Hui Lin Chit,"Jinjiang, China",3,
+#906,Erman Ilicak,"Ankara, Turkey",3,
+#906,John Kapoor,"Phoenix, AZ",4,"Bachelor of Arts / Science, Bombay University; Ph.D, SUNY Buffalo"
+#906,Mustafa Rahmi Koc,"Istanbul, Turkey",3,"Bachelor of Arts / Science, Johns Hopkins University"
+#906,Mustafa Kucuk,"Istanbul, Turkey",3,
+#906,Timur Kulibaev,"Almaty, Kazakhstan",3,"Bachelor of Arts / Science, Moscow State University"
+#906,Dinara Kulibaeva,"Almaty, Kazakhstan",3,"Doctorate in Pedagogical Sciences, State Institute of Theatre Arts (GITIS, Moscow)"
+#906,Spiro Latsis & family,"Geneva, Switzerland",2,"Doctorate, London School of Economics"
+#906,Thomas Lee,"New York, NY",5,"Bachelor of Arts / Science, Harvard University"
+#906,Vincent Lo,"Hong Kong, Hong Kong",2,
+#906,"Henry Nicholas, III.","Newport Coast, CA",3,"Bachelor of Arts / Science, University of California, Los Angeles; Doctorate, University of California, Los Angeles; Master of Science, University of California, Los Angeles"
+#906,Akio Nitori,"Hokkaido, Japan",,
+#906,Bob Parsons,"Scottsdale, AZ",,"Bachelor of Arts / Science, University of Baltimore"
+#906,Robert Pera,"San Jose, CA",,"Bachelor of Arts / Science, University of California, San Diego; Master of Science, University of California, San Diego"
+#906,Daniel Pritzker,"Marin County, CA",5,"Bachelor of Arts / Science, Tufts University; Doctor of Jurisprudence, Northwestern University"
+#906,Chandru Raheja,"Mumbai, India",2,"LLB, Bombay University"
+#906,Stewart Rahr,"New York, NY",2,"Bachelor of Arts / Science, New York University"
+#906,Larry Robbins,"Alpine, NJ",4,"Bachelor of Arts / Science, University of Pennsylvania Wharton School"
+#906,Thomas Secunda,"Croton-on-Hudson, NY",2,"Bachelor of Arts / Science, SUNY Binghamton"
+#906,Yasumitsu Shigeta,"Tokyo, Japan",3,"Drop Out, Nihon University"
+#906,Sit Kwong Lam,"Hong Kong, Hong Kong",,"Doctorate, Nanjing University"
+#906,Tahir,"Jakarta, Indonesia",4,"Master of Business Administration, Golden Gate University; Bachelor of Arts / Science, Nan Yang University"
+#906,Sarik Tara,"Istanbul, Turkey",3,"Bachelor of Arts / Science, Istanbul Technical Unive"
+#906,Clemens Toennies,"Rheda-Wiedenbrück, Germany",,
+#906,T.Y. Tsai,"Taipei, Taiwan",1,
+#906,Peter Unger,"Neustadt an der Waldnaab, Germany",2,
+#906,Sunil Vaswani,"Dubai, United Arab Emirates",3,"B.Com, University of London"
+#906,Georg von Opel,"Zurichsee, Switzerland",5,"Bachelor of Arts / Science, University of Rhode Island"
+#906,David Walentas,"New York, NY",,
+#906,Wu Guangming & family,"Danyang, China",1,"EMBA, China Europe International Business School"
+#906,Yan Zhi,"Wuhan, China",,"Master of Business Administration, Wuhan University"
+#906,Yi Zheng,"Beijing, China",,"Bachelor of Arts / Science, Zhejiang University"
+#959,Mohamed Al Fayed,"London, United Kingdom",5,
+#959,Louis Bacon,"Oyster Bay, NY",7,"Bachelor of Arts / Science, Middlebury College; Master of Business Administration, Columbia Business School"
+#959,Othman Benjelloun,"Casablanca, Morocco",2,"Diploma, Ecole Polytechnique de Lausanne"
+#959,Rossana Camargo de Arruda Botelho,"Sao Paulo, Brazil",3,"Bachelor of Arts / Economics, Universidade Presbiteriana Mackenzie"
+#959,Pierre Chen,"Taipei, Taiwan",3,
+#959,John Coates,"Stoke-On-Trent, United Kingdom",2,
+#959,Scott Cook,"Woodside, CA",3,"Bachelor of Arts / Science, University of Southern California; Master of Business Administration, Harvard Business School"
+#959,Edson de Godoy Bueno,"Rio de Janeiro, Brazil",2,"Medical Doctor, Universidade Federal do Rio de Janeiro"
+#959,Dermot Desmond,"Dublin, Ireland",4,
+#959,Du Jiangtao & family,"Beijing, China",,"Master of Arts, Beijing Institute of Technology"
+#959,Aloysio de Andrade Faria,"Sao Paulo, Brazil",5,"Bachelor of Arts / Science, University of Minas Gerais; Master of Science, Northwestern University"
+#959,Carlo Fidani,"Toronto, Canada",,
+#959,Rakesh Gangwal,"Miami, FL",1,"Bachelor of Science in Engineering, Indian Institute of Technology; Master of Business Administration, Wharton School"
+#959,Fiona Geminder,"Melbourne, Australia",4,"Bachelor of Arts / Science, Monash University; LLB, Monash University"
+#959,Joseph Grendys,"Chicago, IL",,
+#959,David Hains,"Melbourne, Australia",5,"Bachelor of Science in Engineering, University of Melbourne"
+#959,Huang Qiaoling,"Hangzhou, China",2,
+#959,Manuel Jove,"La Coruna, Spain",2,
+#959,Baba Kalyani,"Pune, India",1,"Master of Science, Massachusetts Institute of Technology"
+#959,Saleh Kamel,"Jeddah, Saudi Arabia",2,"Master of Business Administration, King Abdulaziz University"
+#959,Bruce Karsh,"Los Angeles, CA",3,"Bachelor of Arts / Science, Duke University; Doctor of Jurisprudence, University of Virginia"
+#959,King Pak Fu,"Beijing, China",,
+#959,William Koch,"Palm Beach, FL",6,"Bachelor of Arts / Science, Massachusetts Institute of Technology; Doctorate, Massachusetts Institute of Technology"
+#959,Stephen Lansdown,"St. Peter Port, Guernsey",2,
+#959,Lee Boo-Jin,"Seoul, South Korea",1,"Bachelor of Arts / Science, Yonsei University"
+#959,Lee Man Tat,"Hong Kong, Hong Kong",5,
+#959,Liang Xinjun,"Shanghai, China",1,"Bachelor of Arts / Science, Fudan University; Bachelor of Arts / Science, Fudan University"
+#959,Liang Yunchao,"Guangzhou, China",2,"Master of Business Administration, Sun Yat-sen University; Bachelor of Arts / Science, Zhongnan University of Economics and Law"
+#959,Howard Marks,"New York, NY",2,"Bachelor of Arts / Science, University of Pennsylvania Wharton School; Master of Business Administration, Booth School of Business"
+#959,"Drayton McLane, Jr.","Temple, TX",2,"Bachelor of Arts / Science, Baylor University; Master of Business Administration, Broad College of Business"
+#959,Thomas Meyer,"Barcelona, Spain",,
+#959,N.R. Narayana Murthy & family,"Bangalore, India",2,"Master of Science, Indian Institute of Technology"
+#959,David Nahmad,New York,3,
+#959,Renata de Camargo Nascimento,"Sao Paulo, Brazil",,"Bachelor of Arts / Economics, Universidade Presbiteriana Mackenzie"
+#959,Madeleine Olsson Ericksson,"Gothenburg, Sweden",,
+#959,Regina de Camargo Pires Oliveira Dias,"Sao Paulo, Brazil",,
+#959,Murdaya Poo,"Jakarta, Indonesia",4,
+#959,Que Wenbin & family,"Chengdu, China",,
+#959,Luigi Rovati & family,"Monza, Italy",2,
+#959,Seo Jung-Jin,"Seoul, South Korea",2,"Bachelor of Arts / Science, Konkuk University; Master of Science, Konkuk University"
+#959,Yuri Shefler,"Geneva, Switzerland",4,"Bachelor of Arts / Science, Plekhanov Russian Academy"
+#959,Shin Chang-Jae,"Seoul, South Korea",2,"Doctorate, Seoul National University"
